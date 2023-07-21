@@ -1,11 +1,11 @@
-![](https://www.bisecthosting.com/images/CF/All_The_Forge_9/BH_ATF9_Header.png)
+![](https://www.bisecthosting.com/images/CF/All_the_Forge_10/BH_ATF10_header.webp)
 ======
 
 Welcome to the official repository for All The Forge 10. This is where you can find the latest version of the modpack and access its issue-tracker. If you encounter any bugs or issues with the modpack, please report them here. We're dedicated to providing the best experience possible for our users, and your feedback helps us achieve that. Thank you for using All The Forge 10 
   
 #### Modpack Links: 
 + [CurseForge ](https://www.curseforge.com/minecraft/modpacks/all-the-forge-10)
-+ [Technic Launcher](https://www.technicpack.net/modpack/all-the-forge-9.1927191)
++ [Technic Launcher](https://www.technicpack.net/modpack/all-the-forge-10.1958934)
 + [ATLauncher](https://atlauncher.com/pack/AllTheForge10)
   
 ## **Need Help?** ##
@@ -20,4 +20,4 @@ To ensure efficient tracking and resolution of issues, please follow this format
 
 As part of our commitment to providing the best gaming experience for our community, AMPZ Network has partnered with BisectHosting to offer an exclusive discount. Use promo code **"AMPZ"** to receive a 25% discount on your first order of any gaming services. Click the banner below to claim your discount and start playing today!
 
-[![](https://www.bisecthosting.com/images/CF/All_The_Forge_9/BH_ATF9_PromoCard.png)](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/All_the_Forge_10/BH_ATF10_promo.webp)](https://bisecthosting.com/AMPZ)
