@@ -3,6 +3,72 @@
 # All The Forge 10 - ATF10 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V1.0 Pre4</h1>
+
+**Updated:**
+- Applied Energistics 2 (15.0.4-beta → 15.0.5-beta)
+- Applied Energistics 2 Wireless Terminals (15.0.1-beta → 15.0.6-beta)
+- Controlling (12.0.1 → 12.0.2)
+- Cristel Lib (1.1.0 → 1.1.1) 
+- Dungeons and Taverns (v2.1.3 → v2.1.4)
+- Extreme Reactors (2.0.66 → 2.0.69)
+- FancyMenu (2.14.8-2 → 2.14.9)
+- FLIB (0.0.6 → 0.0.8)
+- Just Enough Items (15.2.0.22 → 15.2.0.23)
+- JourneyMap (5.9.11 → 5.9.12)
+- Iceberg (1.1.10 → 1.1.12)
+- Minecraft Forge (47.0.49 → 47.1.3)
+- McJtyLib (8.0.0 → 8.0.1)
+- Prism (1.0.3 → 1.0.5)
+- Sophisticated Core (0.5.78.366 → 0.5.81.378)
+- Sophisticated Storage (0.8.42.556 → 0.8.43.558)
+- Twilight Forest (4.3.1740 → 4.3.1750)
+- TerraBlender (3.0.0.167 → 3.0.0.169)
+- ZeroCore (2.1.36 → 2.1.38)
+ 
+**Changed/Fixed**
+- Added Official modpack artwork.
+- Added brand new main menu design.
+- Fixed Illager manors rooms not spawning.
+- Fixed the foundation issue with Illager manors.
+- Fixed a mixin crash that sometimes happen.
+- Fixed a crash that would accor when using Rubidium.
+- Fixed a crash relating to Druid Projectiles.
+- Fixed fullscreen map not following correctly when moving from cave to overworld.
+- Fixed "Player Reporting" button being off-centred. 
+- Fixed double clicking on tank upgrade with stack of upgrades with count > 1 on hand to properly stop before returning slots without removing the tank upgrade. 
+- Fixed Discord RPC small text image showing All The Forge 9 instead of All The Forge 10.
+- The Naga will no longer charge twice during its charge attack, meaning it wont wrap around behind you and try to strike again.
+- Updated a bunch of Discord RPC images.
+- Updated chat reporting icons and discriptions.
+- Renamed the built-in texture pack name to Included.
+
+**Added:**
+- Bad Wither No Cookie - Reloaded!
+- Farmer's Delight
+- Trample No More
+- Open Loader
+- Tips
+- Legendary Tooltips
+- Equipment Compare
+- Inventory Sorter
+- Alex's Mobs
+- Spice of Life: Carrot Edition
+- CTOV - Farmer Delight Compatibility pack
+- Macaw's Doors
+- Macaw's Roofs
+- Hopo Better Ruined Portals
+
+**Removed:**
+- Global Packs
+- William Wythers' Overhauled Overworld
+- Diagonal Fences
+- Puzzles Lib
+- New Ruined Portals
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9)
+
+---------------------------------------------------------------------------------
 <h1>V1.0 Pre3</h1>
 
 **Updated:**
