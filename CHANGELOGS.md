@@ -3,6 +3,54 @@
 # All The Forge 10 - ATF10 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V1.0 Pre5</h1>
+
+**Updated:**
+- Architectury API (9.1.10 → 9.1.12)
+- Applied Energistics 2 (15.0.4-beta → 15.0.9-beta)
+- Balm (7.0.4 → 7.0.7)
+- Bookshelf (20.0.1 → 20.0.2)
+- ChoiceTheorem's Overhauled Village (3.3.2 → 3.3.3)
+- CraterLib (1.0.1 → 1.0.2)
+- CC: Tweaked (1.106.1 → 1.107.0)
+- Easy Villagers (1.0.11 → 1.0.12)
+- Extreme Reactors (2.0.69 → 2.0.70)
+- Farmer's Delight (1.2.2a → 1.2.3)
+- Flat Bedrock (3.0.0 → 3.0.1)
+- Framework (0.6.6 → 0.6.11)
+- Iceberg (1.1.12 → 1.1.13)
+- Jade (11.3.0 → 11.4.3)
+- JourneyMap Integration (0.14-42 → 0.14-45)
+- Just Enough Items (15.2.0.23 → 15.2.0.25)
+- Legendary Tooltips (1.4.4 → 1.4.5)
+- Pipez (1.1.3 → 1.1.4)
+- Rubidium (0.6.5 → 0.7.0a)
+- Security Craft (v1.9.7-beta1 → v1.9.7-beta2)
+- Sophisticated Core (0.5.81.378 → 0.5.83.395)
+- Sophisticated Storage (0.8.43.558 → 0.8.46.579)
+- Guard Villagers (1.6.0 → 1.6.1)
+- ZeroCore 2 (2.1.38 → 2.1.39)
+
+**Changed/Fixed**
+- Minor UI tweaks.
+- Fixed potential performance issues involving the stack size override for BowlFoodItems.
+- Fixed Apple M1 compatiblity.
+- Fixed conflict with Optifine that caused tooltips to be invisible.
+- Fixed a crash when alt-tabbing.
+- Fixed shields not taking damage when blocking a taser that deals high enough damage.
+- Fixed storage tier upgrade recipes JEI integration to not crash when additional alternatives to upgrade materials exist and by extension stop this from breaking the whole Storage JEI integration.
+- Fixed major performance regression for NVIDIA graphic cards.
+- Tree Harvering now requires users to sneak to break the whole tree.
+- Disabled saplings from auto planting after cropping trees.
+- Villagers can now give food to guards when needed.
+- Modpack new requirements are now 4GB or more.
+
+**Added:**
+- Controllable
+- DeepslateCutting
+- Smarter Farmers
+- Continents
+---------------------------------------------------------------------------------
 <h1>V1.0 Pre4</h1>
 
 **Updated:**
@@ -66,8 +114,6 @@
 - Puzzles Lib
 - New Ruined Portals
 
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9)
-
 ---------------------------------------------------------------------------------
 <h1>V1.0 Pre3</h1>
 
@@ -110,8 +156,6 @@ Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNet
 - CraftPresence
 - Leaves Be Gone
 
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9)
-
 ---------------------------------------------------------------------------------
 <h1>V1.0 Pre2</h1>
 
@@ -150,7 +194,5 @@ Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNet
 - More Mob Variants
 - Quilted Fabric API
 - Trenzalore
-
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9)
 
 ---------------------------------------------------------------------------------
