@@ -1,4 +1,4 @@
-[![](https://www.bisecthosting.com/images/CF/All_The_Forge_10/BH_ATF10_PromoCard.png)](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/All_the_Forge_10/BH_ATF10_promo.webp)](https://bisecthosting.com/AMPZ)
 -----------------------------------------------------------------------------------------------
 # All The Forge 10 - ATF10 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
