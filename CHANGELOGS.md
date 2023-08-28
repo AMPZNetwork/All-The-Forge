@@ -1,12 +1,56 @@
 [![](https://www.bisecthosting.com/images/CF/All_the_Forge_10/BH_ATF10_promo.webp)](https://bisecthosting.com/AMPZ)
 
------------------------------------------------------------------------------------------------
-# All The Forge 10 - ATF10 | Patch Notes
-## Be sure to always backup your world(s) before updating!
------------------------------------------------------------------------------------------------
-<h1>V1.0 Pre5</h1>
 
-**Updated:**
+# All The Forge 10 - ATF10 | Patch Notes
+
+Be sure to review these changes carefully before updating your world(s). Remember to back up your data before proceeding.
+
+---
+
+## Version: v1.0 Pre6
+
+### Updated:
+
+- Bookshelf (20.0.2 → 20.0.3)
+- Extreme Reactors (2.0.70 → 2.0.71)
+- FLIB (0.0.9 → 0.0.10)
+- Framework (0.6.11 → 0.6.16)
+- Nature's Compass (1.11.1 → 1.11.2)
+- Open Loader (19.0.1 → 19.0.2)
+- Just Enough Items (15.2.0.25 → 15.2.0.27)
+- Moonlight Lib (2.8.1 → 2.8.7)
+- Productive Bees (12.1.5 → 12.1.8)
+- Pipez (1.1.4 → 1.1.5)
+- Structure Gel API (2.13.0 → 2.13.1)
+- The Twilight Forest (4.3.1750 → 4.3.1809)
+- Tips (12.0.1 → 12.0.2)
+- Titanium (3.8.16 → 3.8.21)
+- Trample No More (13.0.1 → 13.0.2)
+
+### Changed/Fixed
+
+- Added Cherry and Mangrove wood nest recipes.
+- Fixed bee attributes getting scrambled when placing a bee from a cage.
+- Fixed powered and heated centrifuge not consuming extra power when having speed upgrades.
+- Fixed compass spinning when player's yaw goes from positive to negative or vice versa.
+- Fixed extracting pipes not working in some cases.
+- Fixed Signs in the Final Castle being blank.
+- Fixed all text disappearing from Hanging Signs added by Twilight Forest when they unload.
+- Rebalanced eng-game Turbine coils.
+
+### Added:
+
+- Industrial Foregoing
+- Blue Skies
+
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9).
+
+---
+
+## Version: V1.0 Pre5
+
+### Updated:
+
 - Architectury API (9.1.10 → 9.1.12)
 - Applied Energistics 2 (15.0.4-beta → 15.0.9-beta)
 - Balm (7.0.4 → 7.0.7)
@@ -32,7 +76,8 @@
 - Guard Villagers (1.6.0 → 1.6.1)
 - ZeroCore 2 (2.1.38 → 2.1.39)
 
-**Changed/Fixed**
+### Changed/Fixed
+
 - Minor UI tweaks.
 - Fixed potential performance issues involving the stack size override for BowlFoodItems.
 - Fixed Apple M1 compatiblity.
@@ -46,15 +91,27 @@
 - Villagers can now give food to guards when needed.
 - Modpack new requirements are now 4GB or more.
 
-**Added:**
+### Added:
+
 - Controllable
 - DeepslateCutting
 - Smarter Farmers
-- Continents
----------------------------------------------------------------------------------
-<h1>V1.0 Pre4</h1>
+- Continents 
 
-**Updated:**
+### Removed:
+
+- Rubidium
+- Rubidium Extras
+- Oculus
+
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9).
+
+---
+
+## Version: V1.0 Pre4
+
+### Updated:
+
 - Applied Energistics 2 (15.0.4-beta → 15.0.5-beta)
 - Applied Energistics 2 Wireless Terminals (15.0.1-beta → 15.0.6-beta)
 - Controlling (12.0.1 → 12.0.2)
@@ -75,7 +132,8 @@
 - TerraBlender (3.0.0.167 → 3.0.0.169)
 - ZeroCore (2.1.36 → 2.1.38)
  
-**Changed/Fixed**
+### Changed/Fixed
+
 - Added Official modpack artwork.
 - Added brand new main menu design.
 - Fixed Illager manors rooms not spawning.
@@ -92,7 +150,8 @@
 - Updated chat reporting icons and discriptions.
 - Renamed the built-in texture pack name to Included.
 
-**Added:**
+### Added:
+
 - Bad Wither No Cookie - Reloaded!
 - Farmer's Delight
 - Trample No More
@@ -108,17 +167,22 @@
 - Macaw's Roofs
 - Hopo Better Ruined Portals
 
-**Removed:**
+### Removed:
+
 - Global Packs
 - William Wythers' Overhauled Overworld
 - Diagonal Fences
 - Puzzles Lib
 - New Ruined Portals
 
----------------------------------------------------------------------------------
-<h1>V1.0 Pre3</h1>
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9).
 
-**Updated:**
+---
+
+## Version: V1.0 Pre3
+
+### Updated:
+
 - Applied Energistics 2 (15.0.3-alpha → 15.0.4-beta)
 - Architectury API (9.0.8 → 9.1.10)
 - Better Advancements (0.3.2.160 → 0.3.2.161)
@@ -139,28 +203,35 @@
 - Magnesium Extras (v1.4.1 → v1.4.3)
 - Waystones (14.0.0 → 14.0.1)
  
-**Changed/Fixed**
+### Changed/Fixed
+
 - Fixed spatial cells not properly checking the maximum size.
 - Fixed too many items in the system, prevents items from showing up.
 - Fixed turtles rendering incorrectly when upside down.
 - Fixed several inconsistencies with `require`/`package.path` in the Lua REPL (Wojbie).
 - Fixed nest repopulation not working for some nests.
 
-**Added:**
+### Added:
+
 - Amplified Nether
 - The Twilight Forest
 - Tree Harvester
 - BisectHosting Server Integration Mod
 - Simple Discord RPC
 
-**Removed:**
+### Removed:
+
 - CraftPresence
 - Leaves Be Gone
 
----------------------------------------------------------------------------------
-<h1>V1.0 Pre2</h1>
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9).
 
-**Updated:**
+---
+
+## Version: V1.0 Pre2
+
+### Updated:
+
 - ChoiceTheorem's Overhauled Villagers (3.3.1 → 3.3.2)
 - Easy Villagers (1.0.8 → 1.0.10)
 - JourneyMap (5.9.10 → 5.9.11)
@@ -172,13 +243,15 @@
 - Productive Bees (12.1.1 → 12.1.2)
 - Minecraft Forge (47.0.35 → 47.0.49)
  
-**Changed/Fixed**
+### Changed/Fixed
+
 - Fixed a potential crash on a server when using easy villagers.
 - Fixed a journeyMap mouse keybinds work for in-game actions.
 - Fixed amber blocks not dropping with entity data.
 - Disabled Securitycraft thank you message. 
 
-**Added:**
+### Added:
+
 - Polymorph
 - Iron Chest Stylized
 - EnderChests
@@ -190,10 +263,13 @@
 - Magnesium Extras
 - Oculus
 
-**Removed:**
+### Removed:
+
 - More Axolotl Variants
 - More Mob Variants
 - Quilted Fabric API
 - Trenzalore
 
----------------------------------------------------------------------------------
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-9).
+
+---
