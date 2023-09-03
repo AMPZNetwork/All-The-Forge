@@ -11,6 +11,8 @@ This is the official repository for All The Forge 10. If you encounter any bugs 
 - [Technic Launcher](https://www.technicpack.net/modpack/all-the-forge-10.1958934)
 - [ATLauncher](https://atlauncher.com/pack/AllTheForge10)
 
+------
+
 ## Need Help?
 
 To ensure efficient tracking and resolution of issues, please follow this format when reporting: `[vX.X.X] Issue Title`. Additionally, include any additional mods you've added to the modpack in the issue description. Your cooperation helps us identify and fix problems quickly. Thank you for your assistance.
