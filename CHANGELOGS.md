@@ -3,7 +3,7 @@
 
 # All The Forge 10 - ATF10 | Patch Notes
 
-Be sure to review these changes carefully before updating your world(s). Remember to back up your data before proceeding.
+Be sure to review these changes carefully before updating your world(s).
 
 ---
 
