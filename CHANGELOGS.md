@@ -7,6 +7,51 @@ Be sure to review these changes carefully before updating your world(s). Remembe
 
 ---
 
+## Version: 1.0 Pre7
+
+### Updated:
+- Applied Energistics 2 (15.0.9-beta → 15.0.11)
+- BisectHosting Server Integration Mod (2.4.0 → 2.4.1)
+- Bookshelf (20.0.3 → 20.0.4)
+- Curios API (5.2.0-beta.3 → 5.3.1)
+- CC: Tweaked (1.108.0 → 1.108.1)
+- Cucumber Library (7.0.0 → 7.0.1)
+- Jade (11.4.3 → 11.5.1)
+- Moonlight Lib (2.8.13 → 2.8.17)
+- Minecraft Forge (47.1.3 → 47.1.47)
+- Sophisticated Backpacks (3.18.56.890 → 3.18.59.909)
+- Sophisticated Core (0.5.83.395 → 0.5.89.425) 
+- Productive Bees (12.1.9 → 12.2.1)
+- Twilight Forest (4.3.1809 → 4.3.1846)
+
+### Changed/Fixed
+- Fixed quantum link chamber not dropping singularity.
+- Fixed dupe issue with nameplates and the inscriber.
+- Fixed slots not being recognized in server-side command arguments.
+- Fixed status effects not rendering in the Curios GUI.
+- Fixed gene treats not being applied to bees.
+- Fixed the uncrafting and recrafting costs of the Uncrafting Table being slightly off.
+- Fixed **"Player Reporting"** button being off centred when on a server.
+- Changed AE2 power unit from AE to RF.
+
+### Added:
+- YUNG's Better Nether Fortresses
+- YUNG's Better Strongholds
+- YUNG's Better Dungeons
+- YUNG's Better Jungle Temples
+- YUNG's API
+- Storage Drawers
+- Toast Control
+- Placebo
+- Desired Servers
+
+### Removed:
+- Sophisticated Storage
+
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: v1.0 Pre6
 
 ### Updated:
