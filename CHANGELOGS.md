@@ -7,7 +7,7 @@
 ---
 ## Version: 1.0.2
 
-Changed/Fixed
+## Changed/Fixed
 - Fixed "No Chat Reporting server loging error".
 
 For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
