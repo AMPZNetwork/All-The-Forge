@@ -4,6 +4,47 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+## Version: 1.2: (October 10, 2023)
+
+### Updated:
+- Applied Energistics 2 (15.0.11 → 15.0.13)
+- Applied Energistics 2 Wireless Terminals (15.0.12 → 15.1.0)
+- AeroBlender (1.0 → 1.0.1)
+- Bookshelf (20.0.4 → 20.0.5)
+- ChoiceTheorem's Overhauled Village (3.3.5 → 3.3.5a)
+- Curios API (5.3.4 → 5.3.5)
+- CC: Tweaked (1.108.1 → 1.108.3)
+- Dungeons and Taverns (v3 → 3.0.3)
+- Extreme Reactors (2.0.73 → 2.0.74)
+- Guard Villagers (1.6.1 → 1.6.2)
+- Kotlin for Forge (4.4.0 → 4.5.0)
+- Open Loader (19.0.2 → 19.0.3)
+- Searchables (1.0.1 → 1.0.2)
+- SuperMartijn642's Core Lib (1.1.12a → 1.1.15)
+- Titanium (3.8.21 → 3.8.22)
+
+### Changes and Fixes
+- Bug Fix: Addressed an issue where adding servers to the multiplayer screen would result in their deletion upon the next pack launch.
+- Bug Fix: We've adressed an issue with the witch villa's brewing loot chest table creating error logs.
+- Bug Fix: Fixed an Illager Hideouts hallway sideroom not being able to generate.
+- Bug Fix: Fixed certus quartz cluster waterlogging.
+- Bug Fix: Fixed a bug where the terminal would not close when the network runs out of power.
+- Bug Fix: Fixed error when a BaseBlockEntity returns null client data.
+- Bug Fix: Fixed the loading bar not using the entire bottom screen on smaller displays.
+
+### Added:
+- Lootr 
+- Blood Magic
+- Easy Emmerald Tools & More
+
+### Removed:
+- Iron Jetpacks
+- Cucumber
+- Easy Emerald
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
 
 ## Version: 1.1.0 (October 1st, 2023)
 
