@@ -4,7 +4,35 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
-## Version: 1.2: (October 10, 2023)
+## Version: 1.2.1: (October 13th, 2023)
+
+### Updated:
+- Citadel (2.4.4 → 2.4.5)
+- Cupboard (2.0 → 2.1)
+- Easy Villagers (1.0.12 → 1.0.13)
+- ModernFix (5.7.5 → 5.8.1)
+- Rubidium (0.7.1 → 0.7.2) (Technic and ATLauncher ONLY DELETE FOR CF Post)
+- Security Craft (v1.9.7 → v1.9.8)
+- TrimsEffect (1.0.1 → 1.0.3)
+- Ketket's Graves Datapack (0.1 → 0.8)
+
+### Changes and Fixes
+- We've resolved a bug that was causing crashes for some users on ATLauncher and Technic. This issue was related to rendering specific texture chunks during world generation. For more details, check out issue [#629](https://github.com/Asek3/Rubidium/issues/629). Please note that this is an unofficial patch until an official release becomes available.
+- Fixed an issue where Reinforced Doors placed adjacent to each other wouldn't open properly after the chunk they're in was reloaded.
+- Fixed We've fixed the trash slot button, ensuring it no longer clashes with the vanilla recipe book when opened.
+- Added the ability to craft iron, leather, gold and diamond horse armor. refer to this [image](https://i.imgur.com/NoZsFzi.png) for the recipe. 
+- Corrected the problem that prevented placing, breaking, or interacting with blocks next to a Sentry.
+- Sentries no longer attack teams that are allowed through an allowlist module.
+- Addressed a duplication glitch involving easy villagers.
+- Eliminated lag caused by the Forge vehicle resync patch and resolved a recipe conflict between The Aether Iron and Gold rings and Industrial Foregoing gears.
+- The Lootr chest texture now uses the Minecraft default texture to be more compatible with resource packs.
+- General performance improvements have been made to both loading and gameplay for all users.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
+## Version: 1.2: (October 10th, 2023)
 
 ### Updated:
 - Applied Energistics 2 (15.0.11 → 15.0.13)
