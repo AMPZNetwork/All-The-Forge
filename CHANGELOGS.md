@@ -4,6 +4,50 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+---
+
+## Version: 1.2.2: (October 22nd, 2023)
+
+### Updated:
+- Applied Energistics 2 Wireless Terminals (15.1.0 → 15.1.1)
+- Bookshelf (20.0.5 → 20.1.6)
+- EnderIO (6.0.20 → 6.0.21)
+- Extreme Reactors (2.0.74 → 2.0.75)
+- Easy Villagers (1.0.13 → 1.0.14)
+- Guard Villagers (1.6.2 → 1.6.3)
+- Jade (11.6.1 → 11.6.3)
+- Mekanism (10.4.0.14 → 10.4.2.16)
+- Mekanism Generators (10.4.0.14 → 10.4.2.16)
+- Mekanism Tools (10.4.0.14 → 10.4.2.16)
+- Mining Gadgets (1.15.3 → 1.15.5)
+- The Twilight Forest (4.3.1850 → 4.3.1860)
+- Sophisticated backpacks (3.18.59.909 → 3.18.65.935)
+- Sophisticated Core (0.5.89.425 → 0.5.100.457)
+ 
+### Changes and Fixes
+- Fixed in-game book recipe for Extreme Reactors.
+- Fixed guards attacking mobs on the same team.
+- Fixed item decorator rendering for amount of chemical stored in the mekasuit.
+- Fixed certain damage sources not having a source entity.
+- Fixed boss loot tables not being properly seeded, meaning the loot was always the same when killing them.
+- Fixed hollow cherry logs not having a recipe.
+- Fixed the uncrafting table not respecting recipes being marked as special.
+- Fixed error when having villager without work sound.
+- Fixed battery upgrade to not overflow max int of energy input/output when way too many stack upgrades are put in backpack.
+- Miners Lights are now replaceable meaning you can place over them with normal block placement.
+- Fixed Industrial Foregoing Iron, Gold and Diamond gears recipe not working inside AE2 ME. refer to this [image](https://imgur.com/mwWvlHk) to get an understanding of how to craft the new recipes.
+- Added a the abiliy to craft chainmail armour (craft this the same way as you do the other armor but with chain).
+
+### Added:
+- Chisel's & Bits
+
+### Removed:
+- ModernFix
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: 1.2.1: (October 13th, 2023)
 
 ### Updated:
