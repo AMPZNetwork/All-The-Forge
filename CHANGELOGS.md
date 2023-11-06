@@ -4,6 +4,70 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+
+## Version: 1.3.0: (November 6th, 2023) 
+
+### Updated:
+- Applied Energistics 2 (15.0.13 → 15.0.14)
+- Applied Energistics 2 Wireless Terminals (15.1.1 → 15.1.2)
+- CC: Tweaked (1.108.3 → 1.108.4)cc
+- ChoiceTheorem's Overhauled Village (3.3.5a → 3.3.6)
+- Citadel (2.4.5 → 2.4.8)
+- Collective (6.66 → 6.82)
+- Comforts (6.3.3 → 6.3.4)
+- Curios API (5.3.5 → 5.4.2)
+- CTOV - Farmer Delight Compat datapack (2.0 → 2.1a)
+- Create (0.5.1.e → 0.5.1.f)
+- Deep Aether (1.0.10 → 1.0.11)
+- Everything is Copper (2.2.1 → 2.3.2)
+- Explorify (1.3.0 → 1.3.0-mc1.20)
+- FerriteCore (6.0.0 → 6.0.1)
+- GeckoLib (4.2.3 → 4.2.4)
+- Hopo Better Ruined Portals (1.3.6 → 1.3.7)
+- JourneyMap (5.9.15 → 5.9.16)
+- Let Me Despawn (1.1.1 → 1.2.0)
+- OpenBlocks Elevator (1.8.15 → 1.9)
+- Minecraft Forge (47.2.1 → 47.2.4)
+- Moonlight Lib (2.8.35 → 2.8.57)
+- Polymorph (0.49.0 → 0.49.1)
+- Refined Storage (1.12.3 → 1.12.4)
+- Structure Gel (2.14.0 → 2.15.0)
+- The Aether (1.3 → 1.4)
+- Titanium (3.8.22 → 3.8.23)
+
+### Changes and Fixes
+- Fixed monitor peripheral becoming "detached" after breaking and replacing a monitor.
+- Fixed signs being empty when placed.
+- Fixed loot tables of the farmer delight's farm.
+- Fixed slot filtering and slot size checking.
+- Fixed an issue with Forge global callbacks not working correctly.
+- Fixed network decoding errors.
+- Fixed some broken tags.
+- Fixed some more compat issues with shaders.
+- Fixed a few known duplication bugs.
+- Fixed issues with items not stacking after drop on mob kill.
+- Fixed Analog Levers not rendering their redstone indicator.
+- Fixed Turntable handler causing a crash during world shutdown.
+- Fixed an issue with servers hanging when using camouflaged elevators.
+- Fixed JEI transfer crash for larger processing recipes.
+- Changed what kind of loot you are going to find in the "piglin ruin structure", chests fit more with a vanilla style, and some piglin brutes, drop better loot in that structure.
+
+### Added:
+- Construction Wand
+- Embeddium
+- Embeddium++
+- Macaw's Furniture
+- ObsidianUI
+- RyoamicLights
+- Create: Diesel Generators
+
+### Removed:
+- Rubidium
+- Magnesium/Rubidium Extras
+- Magnesium/Rubidium Dynamic Lights
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
 ---
 
 ## Version: 1.2.2: (October 22nd, 2023)
