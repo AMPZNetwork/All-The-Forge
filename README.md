@@ -8,7 +8,6 @@ This is the official repository for All The Forge 10. If you encounter any bugs 
 ### Modpack Links:
 
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/all-the-forge-10)
-- [Technic Launcher](https://www.technicpack.net/modpack/all-the-forge-10.1958934)
 - [ATLauncher](https://atlauncher.com/pack/AllTheForge10)
 
 ------
