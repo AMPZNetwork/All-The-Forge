@@ -5,6 +5,36 @@
 
 ---
 
+## Version: 1.3.1: (November 11th , 2023) 
+
+### Updated:
+- Applied Energistics 2 (15.0.14 → 15.0.15)
+- Applied Energistics 2 Wireless Terminals (15.1.2 → 15.1.3)
+- Citadel (2.4.8 → 2.4.9)
+- Collective (6.82 → 7.3)
+- Extreme Reactors (2.0.75 → 2.0.76)
+- Embeddium (0.2.7 → 0.2.8)
+- Macaw's Furniture (3.2.0 → 3.2.1)
+- Minecraft Forge (47.2.4 → 47.2.5)
+- Moonlight Lib (2.8.57 → 2.8.60)
+- Tree Harvester (8.2 → 8.3)
+- ZeroCore 2 (2.1.39 → 2.1.40)
+
+### Changes and Fixes
+- Fixed interfaces always exposing their own inventory to storage buses, making subnets impossible.
+- Fixed a dupe bug with farmers delight.
+- Rectified the improper sitting position of the Chair.
+- Adjusted AE2 spatialPowerMultiplier and spatialPowerExponent.
+- General improvements.
+
+### Added:
+- Create: Steam 'n' Rails
+- Extreme sound muffler
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: 1.3.0: (November 6th, 2023) 
 
 ### Updated:
