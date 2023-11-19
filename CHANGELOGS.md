@@ -5,6 +5,62 @@
 
 ---
 
+## Version: 1.4.0: NeoForge (November 19th, 2023)
+
+### Updated:
+- Collective (7.3 → 7.7)
+- Create: Diesel Generators (1.2c → 1.2d)
+- Cristel Lib (1.1.3 → 1.1.5)
+- Deep Aether (1.0.11 → 1.0.12)
+- Embeddium (0.2.8 → 0.2.9)
+- EnderChests (1.1 → 1.2)
+- JourneyMap (5.9.16 → 5.9.18)
+- Kotlin for Forge (4.5.0 → 4.6.2)
+- Minecraft Forge (47.2.5 → 47.2.6)
+- Mekanism (10.4.2.16 → 10.4.4.19)
+- Mekanism Generators (10.4.2.16 → 10.4.4.19)
+- Mekanism Tools (10.4.2.16 → 10.4.4.19)
+- Mining Gadgets (1.15.5 → 1.15.6)
+- Moonlight Lib (2.8.60 → 2.8.62)
+- RFTools Builder (6.0.1 → 6.0.2)
+- ShetiPhianCore (1.1 → 1.2)
+- Sophisticated backpacks (3.18.65.935 → 3.18.66.941)
+- Sophisticated Core (0.5.100.457 → 0.5.105.485)
+- Silent Gear (3.5.1 → 3.5.2)
+- The Twilight Forest (4.3.1860 → 4.3.1893)
+         
+### Changes and Fixes
+- NeoForged loader (a Forge fork) is now the default loader for Technic and ATLauncher.
+  - The pack's integration with CurseForge will transition once their launcher officially supports NeoForged loader.
+- Fixed huge diesel engine connection.
+- Fixed distillation towers.
+- Fixed JEI issues.
+- Fixed refill upgrade to not delete item in hand when block is middle click picked from backpack but there's no place for the item in player's hand in backpack or player's inventory.
+- Fixed some dyes being consumed when dying the bands to the same color.
+- Bags and Pouches are now stackable.
+- Fixed Silent Gear loot not generating in chests or dropping from mobs.
+- Fixed crash when shift clicking stack of tank or battery upgrade of more than 1 into backpack.
+- Fixed an uncrafting table dupe.
+- Fixed Sending packets while client is not ready.
+- Fixed a serious dupe bug with the builder and a space chamber.
+- JourneyMap waypoints are enbled by default.
+
+### Added:
+- Macaw's Lights and lamps
+- Macaw's Fences and walls
+- Macaw's Windows
+- Neruina - Ticking Entity Fixer (server files only)
+- FramedBlocks
+- Create : Misc & Things
+
+## Removed:
+- Chisels & Bits
+- Smarter Farmers
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: 1.3.1: (November 11th , 2023) 
 
 ### Updated:
