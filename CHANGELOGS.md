@@ -5,6 +5,42 @@
 
 ---
 
+## Version: 1.4.1: (December 3rd, 2023)
+
+#### Final Update for This Pack Until 2024, Unless a major issue arises.
+
+### Updated:
+- Applied Energistics 2 Wireless Terminals (15.1.3 → 15.1.5)
+- Create: Diesel Generators (1.2c → 1.2e)
+- Collective (7.7 → 7.9)
+- Curios API (5.4.2 → 5.4.5)
+- Embeddium (0.2.9 → 0.2.10)
+- Ender IO (6.0.21-alpha → 6.0.23-alpha)
+- Easy Villagers (1.0.14 → 1.0.16)
+- Kotlin for Forge (4.6.2 → 4.7.0)
+- Patchouli (81 → 83)
+- Placebo (8.3.7 → 8.6.0)
+- Pipez (1.1.5 → 1.2.5)
+- RyoamicLights (0.1.5 → 0.1.6)
+- Sophisticated backpacks (3.18.66.941 → 3.19.1.962)
+- Sophisticated Core (0.5.105.485 → 0.5.108.504)
+- Spice of Life: Carrot Edition (1.15.0 → 1.15.1)
+- Structure Essentials (3.1 → 3.2)
+         
+### Changes and Fixes
+- Reverted to Minecraft Forge to address networking issues encountered with NeoForge.
+- Corrected the off-centered positioning of the "Report a Player" button.
+- Resolved the issue of block entities briefly disappearing when deleted and recreated.
+- Resolved ResourceReloader issues.
+- Adressed network decoding errors.
+- Addressed several minor bugs for a smoother experience.
+- Removed create: diesel engine sound.
+- Updated the URL for the "Suggestions" button.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: 1.4.0: NeoForge (November 19th, 2023)
 
 ### Updated:
