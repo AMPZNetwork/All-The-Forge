@@ -5,6 +5,82 @@
 
 ---
 
+## Version: 1.5.0: (January 2nd, 2024)
+
+### Updated:
+- Alex's Mobs (1.22.6 → 1.22.7)
+- Applied Energistics 2 Wireless Terminals (15.1.5 → 15.0.18)
+- Balm (7.1.4 → 7.2.1)
+- Bookshelf (20.1.6 → 20.1.8)
+- Blue Skies (1.3.29 → 1.3.30)
+- Collective (7.9 → 7.30)
+- Continents (v1.1.3 → v1.1.4)
+- Create: Diesel Generators (1.2e → 1.2f)
+- Curios API (5.4.5 → 5.4.7)
+- Deep Aether (1.0.12 → 1.0.13)
+- Easy Villagers (1.0.16 → 1.0.17)
+- Embeddium (0.2.10 → 0.2.16)
+- Embeddium++ (v1.0.1 → v1.1.0)
+- Extreme Reactors (2.0.76 → 2.0.77)
+- GeckoLib (4.2.4 → 4.3.1)
+- Industrial Foregoing (3.5.9 → 3.5.14) 
+- Jade (11.6.3 → 11.7.1) 
+- Kotlin for Forge (4.7.0 → 4.10.0)
+- Patchouli (83 → 8.4)
+- NetherPortalFix (13.0.0 → 13.0.1)
+- Minecraft Forge (47.2.16 → 47.2.19)
+- Moonlight Lib (2.8.62 → 2.8.78)
+- Macaw's Windows (2.2.0 → 2.2.1)
+- Oculus (1.6.9 → 1.6.13)
+- Polymorph (0.49.1 → 0.49.2)
+- RFTools Builder (6.0.2 → 6.0.3)
+- Silent Gear (3.5.2 → 3.5.3)
+- Sophisticated Backpacks (3.19.1.962 → 3.19.5.988)
+- Sophisticated Core (0.5.108.504 → 0.5.113.524)
+- Structure Gel API (2.15.0 → 2.16.0)
+- SuperMartijn642's Core Lib (1.1.15 → 1.1.16)
+- The Aether (1.0.0-beta1.4 → 1.0.0)
+- Titanium (3.8.23 → 3.8.25)
+- Towns and Towers (1.11.1 → 1.12)
+- TrimsEffects (1.0.3 → 1.1.0)
+- Tree Harvester (8.3 → 8.6) 
+- Waystones (14.0.2 → 14.1.3)
+- ZeroCore 2 (2.1.40 → 2.1.41)
+ 
+### Changes and Fixes
+- Fixed the backpack open keybind to prevent accidental screen closure during a JEI search with an open backpack screen.
+- Resolved the persistent "Linked Network cannot be found" message, even when the terminal is operational.
+- Addressed the issue of block entity shadows disappearing when off-screen, particularly observed after installing Oculus.
+- Rectified a problem causing the shield projector to crash in specific situations.
+- Improved the Bioreactor efficiency bar, ensuring proper reset and enhancing biofuel production rates.
+- Fixed a potential world lockup caused by item frames.
+- Resolved a bug where graves failed to retain inventory upon death in modded dimensions [[#5]](https://github.com/AMPZNetwork/All-The-Forge-10/issues/5).
+- Tackled various network issues.
+- Corrected the inefficiency of buckets on waterlogged waystones.
+- Ensured portals no longer retain linked positions after destruction.
+- Fixed the mixin crash occurring at startup.
+- Adjusted Cockatrices' behavior to exclude targeting players in creative mode.
+- Modified the Latex Processing Unit to produce crafted dry rubber instead of tiny ones, with an increased fluid latex requirement.
+- Added the ability to sort Sharestones in the same manner as waystones.
+- Reduced memory usage and compute time for world generation.
+
+### Added:
+- Macaw's Furnitures - Biomes O' Plenty
+- Macaw's Bridges - Biomes O' Plenty
+- Macaw's Roofs - Biomes O' Plenty
+- Macaw's Fences - Biomes O' Plenty
+- Poymorphic Energistics
+- Refined Polymorphism
+- Jade Addons
+
+### Removed:
+- RyoamicLights
+- ObsidianUI
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+
+---
+
 ## Version: 1.4.1: (December 3rd, 2023)
 
 #### Final Update for This Pack Until 2024, Unless a major issue arises.
