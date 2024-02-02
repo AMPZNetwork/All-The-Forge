@@ -5,6 +5,22 @@
 
 ---
 
+## Version: 10.6: (February 2nd, 2024)
+
+### Updated:
+- Deep Aether (1.0.13 → 1.0.2)
+- Embeddium (0.2.16 → 0.3.0)
+- Embeddium++ (v1.1.0 → v1.2.3)
+- The Aether (1.0.0 → 1.2.0)
+
+### Changes and Fixes
+- Updated Aether & Deep Aether which had been causing savegame corruption. If your savegame had an unrecoverable crash loop about `cast to LivingEntity`, this crash is fixed now.
+- Updated official server ip adress to atfg.ampznetwork.com.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 1.5.0: (January 2nd, 2024)
 
 ### Updated:
