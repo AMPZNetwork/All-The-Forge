@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Issue report for All The Forge 10
+about: Issue report for All The Forge modpack
 title: "[BUG]"
 labels: Bug
 assignees: LabsZero
@@ -28,6 +28,6 @@ If relevant, include screenshots to aid in explaining the issue.
 
 ## Basic Information (please fill in the following details):
  - Operating System: [e.g., Windows]
- - All The Forge 10 Version: [e.g., 1.0]
- - Platform: [e.g., technicpack]
+ - All The Forge Version: [e.g., 5.4]
+ - Platform: [e.g., atlauncher]
  - Additional Mods Installed: [e.g., Optifine]
