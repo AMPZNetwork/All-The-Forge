@@ -5,6 +5,95 @@
 
 ---
 
+## Version: 10.7: (February 7th, 2024)
+
+### Updated:
+- Applied Energistics 2 (15.0.18 → 15.0.20)
+- Amplified Nether (v1.2.3 → v1.2.4)
+- Blue Skies (1.3.30 → 1.3.31)
+- Bookshelf (20.1.8 → 20.1.9)
+- CC:Tweaked (1.108.4 → 1.109.5)
+- Citadel (2.4.9 → 2.5.3)
+- Cloth Config API (11.1.106 → 11.1.118)
+- Comforts (6.3.4 → 6.3.5)
+- CraterLib (1.0.2 → 1.1.1)
+- Cupboard (2.1 → 2.3)
+- Curios API (5.4.7 → 5.7.0)
+- ChoiceTheorem's Overhauled Village (3.3.6 → 3.4.2)
+- Create: Diesel Generators (1.2f → 1.2g)
+- Drippy Loading Screen (2.2.4 → 3.0.0)
+- Everything is Copper (2.3.2 → 2.3.4)
+- Embeddium (0.3.0 → 0.3.1)
+- Embeddium++ (1.2.3 → 1.2.4)
+- FancyMenu (2.14.9-3 → 3.0.6)
+- Farmer's Delight (1.2.3 → 1.2.4)
+- GeckoLib (4.3.1 → 4.4.2)
+- Just Enough Items (15.2.0.27 → 15.3.0.1)
+- Konkrete (1.6.1 → 1.8.0)
+- Lootr (0.7.30.73 → 0.7.31.78)
+- Minecraft Forge (47.2.19 → 47.2.20)
+- Macaw's Fences and Walls (1.0.7 → 1.1.1)
+- Macaw's Furniture (3.2.1 → 3.2.2)
+- Macaw's Roofs (2.2..4b → 2.3.0)
+- Moonlight Lib (2.8.78 → 2.9.7)
+- RFTools Builder (6.0.3 → 6.0.4)
+- Sophisticated Backpacks (3.19.5.988 → 3.19.8.1000)
+- Sophisticated Core (0.5.113.524 → 0.5.116.537)
+- TerraBlender (3.0.0.169 → 3.0.1.4)
+- The Twilight Forest (4.3.1893 → 4.3.2145)
+- TexTrue's Embeddium Options (0.1.4 → 0.1.5)
+- Oculus (1.6.13 → 1.6.15)
+
+### Changes and Fixes
+- Resolved a recurring crash experienced by certain users on ATLauncher.
+- Addressed and fixed the infinite update loop issue related to quantum bridges.
+- Rectified summoning glitches associated with specific entities.
+- Corrected inconsistencies in the propagation of 'eRender' across various scenarios.
+- Rectified an oversight in durability damage concerning gloves.
+- Implemented measures to prevent Aether Portals from continuously breaking underwater.
+- Fixed display discrepancies with the title bar pack icon specifically on MacOS.
+- Fixed the diesel generators capacity duplication glitch.
+- Adjusted hitboxes in the bottom rain gutter, particularly when another gutter is positioned above it.
+- Resolved the issue where the new server IP wasn't displayed for users who updated from version 1.5.2 to 10.6.
+- Basic crops in JEI now provide information on their locations as Wild Crops.
+- Added a convenient "continue" button on the main menu for quick access to the last saved game or server.
+- Engines can now be turned off using redstone.
+- Introduced a news/update section to the main menu.
+
+### Added:
+- Emojiful
+- Create: Bells & Whistles
+- Create Slice & Dice
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Dynamics
+- Thermal Locomotion
+
+### Removed:
+- Borderless Window
+- ChoiceTheorem's Overhauled Village Farmer's Delight datapack
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
+## Version: 10.6: (February 2nd, 2024)
+
+### Updated:
+- Deep Aether (1.0.13 → 1.0.2)
+- Embeddium (0.2.16 → 0.3.0)
+- Embeddium++ (v1.1.0 → v1.2.3)
+- The Aether (1.0.0 → 1.2.0)
+
+### Changes and Fixes
+- Updated Aether & Deep Aether which had been causing savegame corruption. If your savegame had an unrecoverable crash loop about "cast to LivingEntity", this crash is fixed now.
+- Updated official server ip adress to atfg.ampznetwork.com.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.6: (February 2nd, 2024)
 
 ### Updated:
