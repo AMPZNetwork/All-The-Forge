@@ -5,6 +5,82 @@
 
 ---
 
+## Version: 9.14
+
+#### This will be the final update as this pack has now reached its End of Support<br>
+We recommend you update to latest All The Forge pack.
+
+### Updated:
+- Almost Unified (0.7.0 → 0.8.0)
+- Applied Energistics 2 (12.9.8 → 19.9.9)
+- Architectury API (6.5.85 → 6.5.90)
+- CC: Tweaked (1.101.3 → 1.101.4)
+- Cloth Config API (8.3.103 → 8.3.115)
+- Collective (7.3 → 7.31)
+- Cooking for Blockheads (13.3.3 → 13.3.4)
+- Corail Tombstone (8.2.12 → 8.2.14)
+- Create Crafts & Additions (1.1.1 → 1.2.3)
+- Curios API (5.1.4.2 → 5.1.6.1)
+- CTOV - Farmer Delight Compatibility pack (1.1 → 2.1.a)
+- Drippy Loading Screen (2.2.2 → 3.0.1)
+- Easy Villagers 1.0.14 → 1.0.17)
+- Embeddium (0.2.7 → 0.3.3)
+- Embeddium++ (1.0.0 → 1.2.4)
+- FancyMenu (2.14.9 → 3.1.0)
+- Farmer's Delight (1.2.3 → 1.2.4)
+- Fusion (1.0.6 → 1.1.0c)
+- Guard Villagers (1.5.8 → 1.5.9)
+- Industrial Foregoing (3.3.2.3-5 → 3.3.2.3-7)
+- Iron Jetpacks (6.0.6 → 6.0.7)
+- Just Enough Items (11.6.0.1018 → 11.6.0.1019)
+- Just Enough Resources (1.1.0.179 → 1.2.3.243)
+- Konkrete (1.6.1 → 1.8.0)
+- Minecraft Forge (43.3.5 → 43.3.8)
+- Moonlight Lib (2.3.5 → 2.3.6)
+- OpenBlocks Elevator (1.8.9 → 1.8.10)
+- Pipez (1.1.5 → 1.2.5)
+- Placebo (7.3.3 → 7.3.5)
+- Rechiseled (1.1.5b → 1.1.5c)
+- RFTools Builder 5.2.8 → 5.2.9)
+- Rhino (280 → 284)
+- Saturn (0.0.7 → 0.1.3)
+- Smooth Boot Reloaded (0.0.2 → 0.0.4)
+- Sophisticated Backpacks (3.18.63.934 → 3.20.1.1013)
+- Sophisticated Core (0.5.98.459 → 0.6.2.552)
+- SuperMartijn642's Core Lib (1.1.15 → 1.1.17)
+- Waystones (11.4.1 → 11.4.2)
+- YUNG's API (3.8.9 → 3.8.10)
+
+### Changed/Fixed
+- Added a convenient "Continue" button on the main menu for quick access to the last saved game or server.
+- Fixed Energy cells keeping chunks loaded forever.
+- Fixed weak tables becoming malformed when keys are GCed.
+- Fixed server crash when Controllable is installed.
+- Fixed tps bug.
+- Fixed chiseling recipes not getting loaded.
+- Fixed waystone settings screen not closing when enter is pressed.
+- Changed spice rack recipe to take two slabs to reduce chance of recipe conflicts.
+- Updated Discord invite URL and GitHub links.
+- Updated some UI elements to match ATFG10.
+
+### Added:
+- The Aether
+- Lootr
+- FramedBlocks
+- TexTrue's Embeddium Options
+- Connectedness 
+- Reforgium
+- Melody
+
+### Removed:
+- ObsidianUI
+- RyoamicLights
+- Borderless Window
+
+For bug reports and issues, please visit our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 13
 
 ### Updated:
