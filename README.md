@@ -7,7 +7,7 @@
 This is the official repository for All The Forge. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/All-The-Forge/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug_report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing All The Forge 10. 
 ### Modpack Links:
 
-- [CurseForge](https://www.curseforge.com/minecraft/modpacks/all-the-forge-10)
+- [CurseForge](https://www.curseforge.com/minecraft/modpacks/all-the-forge)
 - [ATLauncher](https://atlauncher.com/pack/AllTheForge10)
 
 ------
