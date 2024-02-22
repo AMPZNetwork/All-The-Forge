@@ -8,7 +8,7 @@
 ## Version: 9.14
 
 #### This will be the final update as this pack has now reached its End of Support<br>
-We recommend you update to latest All The Forge pack.
+#### We recommend you update to latest All The Forge pack.
 
 ### Updated:
 - Almost Unified (0.7.0 → 0.8.0)
