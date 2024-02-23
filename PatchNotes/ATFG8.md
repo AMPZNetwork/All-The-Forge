@@ -5,9 +5,90 @@
 
 ---
 
-## Version: 8.10
+## Version: 8.11
 
-#### This will be the final update as this pack has now reached its End of Support<br>We recommend you update to lastest All The Forge.
+#### This will be the final update as this pack has now reached its End of Support<br>
+#### We recommend you update to latest All The Forge pack.
+
+### Updated:
+- Applied Energistics 2 (11.7.0 → 11.7.6)
+- Architectury API (4.11.89 → 4.11.93)
+- Balm (3.2.5 → 3.2.6)
+- BisectHosting Server Integration Menu (1.3 → 2.4.1)
+- Bookshelf (13.2.52 → 13.3.56)
+- ChoiceTheorem's Overhauled Village (2.9.2 → 2.9.4)
+- Cloth Config API (6.4.102 → 6.5.116)
+- CoFH Core (9.2.1.39 → 9.2.3.47)
+- Configured (2.0.0 → 2.0.1)
+- Controlling (9.0+22 → 9.0+23)
+- Create (0.5.0.i → 0.5.1.f)
+- Curios API (5.0.9.0 → 5.0.9.2)
+- Drippy Loading Screen (2.1.1 → 3.0.1)
+- Extreme Reactors (2.0.61 → 2.0.71)
+- FallingTree (3.5.4 → 3.5.5)
+- FancyMenu (2.13.3-2 → 3.1.0)
+- Farmer's Delight (1.2.0 → 1.2.3)
+- Jade (5.2.6 → 5.3.2)
+- JourneyMap (5.9.3 → 5.9.7)
+- Just Enough Items (10.2.1.1002 → 10.2.1.1006)
+- Konkrete (1.6.0 → 1.8.0)
+- Kotlin for Forge (3.10.0 → 3.12.0)
+- Minecraft Forge (40.2.1 → 40.2.17)
+- Mantle (1.9.43 → 1.9.45)
+- Moonlight Lib (1.17.9 → 1.17.14)
+- OAuth (1.1.14 → 1.1.15)
+- Placebo (6.6.6 → 6.6.7)
+- Polymorph (0.46 → 0.49)
+- Security Craft (v1.9.5 → v1.9.8)
+- Simple Discord RPC (3.2.0 → 3.2.4)
+- Sophisticated Backpacks (3.18.40.777 → 3.20.1.1011)
+- Sophisticated Core (0.5.37.202 → 0.6.2.551)
+- Terralith (2.2.3 → 2.2.6)
+- Thermal Expansion (2.0.20 → 2.2.24)
+- Thermal Foundation (2.0.46 → 2.2.58)
+- Thermal Innovation (2.0.17 → 2.1.19)
+- Tinkers Construct (3.6.3.111 → 3.6.4.113)
+- Titanium (3.5.8-40 → 3.5.11)
+- Waystones (10.2.0 → 10.2.2)
+- YUNG's API (2.2.7 → 2.2.9)
+- ZeroCore 2 (2.1.31 → 2.1.39)
+
+### Changed/Fixed:
+- Resolved a crash caused by a failing mixin patch.
+- Adjusted soup melting duration to a more appropriate time.
+- Addressed a potential crash scenario involving reflecting and piercing arrows.
+- Rectified the issue where slots in various containers would disregard stack size limitations.
+- Corrected the behavior of reflecting abilities, ensuring they trigger appropriately and respect higher levels.
+- Introduced a convenient "Continue" button on the main menu for swift access to the last saved game or server.
+- Eliminated the ATFG9 title screen button, as this pack is no longer supported.
+- Removed the Official server option, as it is no longer accessible.
+- Updated Discord invite URL and pack version URL's.
+- Enhanced several UI elements to align with the aesthetics of ATFG10.
+
+### Added:
+- Absent by Design
+- Create Crafts & Additions
+- Cristel Lib
+- CTOV - Farmer Delight Compatibility pack
+- Embeddium
+- Embeddium++
+- Yeetus Experimentus!
+- TexTrue's Embeddium Options
+- Melody
+- Trample No More
+- Lootr
+- Jade Addons
+
+### Removed: 
+- Shutup Experimental Settings
+- Harvest with ease
+- Flywheel
+- Smooth Boot
+- Auudio
+
+---
+
+## Version: 8.10
 
 ### Updated:
 - Applied Energistics 2 (11.6.4 → 11.7.0)
