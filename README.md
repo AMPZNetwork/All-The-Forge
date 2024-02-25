@@ -12,15 +12,15 @@ This is the official repository for All The Forge. If you encounter any bugs or 
 
 <details>
 <summary>Legacy Versions</summary>
-
+<br>
 These versions are no longer receiving updates or support. However, you're welcome to download any of them if you'd like.
 
-- [All The Forge 9](https://www.curseforge.com/minecraft/modpacks/all-the-forge-9)
-- [All The Forge 8](https://www.curseforge.com/minecraft/modpacks/all-the-forge-8)
-- [All The Forge 7](https://www.curseforge.com/minecraft/modpacks/all-the-forge-7)
-- [All The Forge 5](https://www.curseforge.com/minecraft/modpacks/all-the-forge-5)
-- [All The Forge 6](https://www.curseforge.com/minecraft/modpacks/all-the-forge-6)
-- [All The Forge](https://www.curseforge.com/minecraft/modpacks/all-the-forge-legacy)
+- [All The Forge 9](https://www.curseforge.com/minecraft/modpacks/all-the-forge-9) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG9.md)
+- [All The Forge 8](https://www.curseforge.com/minecraft/modpacks/all-the-forge-8) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG8.md)
+- [All The Forge 7](https://www.curseforge.com/minecraft/modpacks/all-the-forge-7) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG7.md)
+- [All The Forge 6](https://www.curseforge.com/minecraft/modpacks/all-the-forge-6) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG6.md)
+- [All The Forge 5](https://www.curseforge.com/minecraft/modpacks/all-the-forge-5) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG5.md)
+- [All The Forge](https://www.curseforge.com/minecraft/modpacks/all-the-forge-legacy) | [Changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG1.12.md)
 
 Where is All The Forge 2,3.4?<br>
 Unfortunately, All The Forge 2, 3, and 4 have been lost to time.
