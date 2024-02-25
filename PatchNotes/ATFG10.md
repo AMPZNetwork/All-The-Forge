@@ -110,7 +110,7 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 
 ---
 
-## Version: 1.5.0: (January 2nd, 2024)
+## Version: 10.5.0: (January 2nd, 2024)
 
 ### Updated:
 - Alex's Mobs (1.22.6 → 1.22.7)
@@ -182,11 +182,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - RyoamicLights
 - ObsidianUI
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.4.1: (December 3rd, 2023)
+## Version: 10.4.1: (December 3rd, 2023)
 
 #### Final Update for This Pack Until 2024, Unless a major issue arises.
 
@@ -218,11 +218,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Removed create: diesel engine sound.
 - Updated the URL for the "Suggestions" button.
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.4.0: NeoForge (November 19th, 2023)
+## Version: 10.4.0: NeoForge (November 19th, 2023)
 
 ### Updated:
 - Collective (7.3 → 7.7)
@@ -274,11 +274,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Chisels & Bits
 - Smarter Farmers
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.3.1: (November 11th , 2023) 
+## Version: 10.3.1: (November 11th , 2023) 
 
 ### Updated:
 - Applied Energistics 2 (15.0.14 → 15.0.15)
@@ -304,11 +304,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Create: Steam 'n' Rails
 - Extreme sound muffler
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.3.0: (November 6th, 2023) 
+## Version: 10.3.0: (November 6th, 2023) 
 
 ### Updated:
 - Applied Energistics 2 (15.0.13 → 15.0.14)
@@ -369,11 +369,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Magnesium/Rubidium Extras
 - Magnesium/Rubidium Dynamic Lights
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.2.2: (October 22nd, 2023)
+## Version: 10.2.2: (October 22nd, 2023)
 
 ### Updated:
 - Applied Energistics 2 Wireless Terminals (15.1.0 → 15.1.1)
@@ -411,18 +411,18 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 ### Removed:
 - ModernFix
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.2.1: (October 13th, 2023)
+## Version: 10.2.1: (October 13th, 2023)
 
 ### Updated:
 - Citadel (2.4.4 → 2.4.5)
 - Cupboard (2.0 → 2.1)
 - Easy Villagers (1.0.12 → 1.0.13)
 - ModernFix (5.7.5 → 5.8.1)
-- Rubidium (0.7.1 → 0.7.2) (Technic and ATLauncher ONLY DELETE FOR CF Post)
+- Rubidium (0.7.1 → 0.7.2)
 - Security Craft (v1.9.7 → v1.9.8)
 - TrimsEffect (1.0.1 → 1.0.3)
 - Ketket's Graves Datapack (0.1 → 0.8)
@@ -439,11 +439,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - The Lootr chest texture now uses the Minecraft default texture to be more compatible with resource packs.
 - General performance improvements have been made to both loading and gameplay for all users.
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.2: (October 10th, 2023)
+## Version: 10.2: (October 10th, 2023)
 
 ### Updated:
 - Applied Energistics 2 (15.0.11 → 15.0.13)
@@ -481,11 +481,11 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Cucumber
 - Easy Emerald
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.1.0 (October 1st, 2023)
+## Version: 10.1.0 (October 1st, 2023)
 
 ### Updated:
 - AppleSkin (2.5.0 → 2.5.1)
@@ -555,20 +555,20 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Tips
 - Productive Bees
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.0.2 (September 17, 2023)
+## Version: 10.0.2 (September 17, 2023)
 
 ### Changes and Fixes
 - Fixed "No Chat Reporting server loging error".
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.0.1 (September 17, 2023)
+## Version: 10.0.1 (September 17, 2023)
 
 ### Updated:
 - Applied Energistics 2 Wireless Terminals (15.0.6-beta → 15.0.11)
@@ -615,13 +615,17 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 - Equipment Compare
 - Iceberg
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
 
 ---
 
-## Version: 1.0.0 (September 12, 2023)
+## Version: 10.0 (September 12, 2023)
 
 - Initial Release.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
 
 For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge-10).
 
