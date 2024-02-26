@@ -1,7 +1,66 @@
-[![](https://www.bisecthosting.com/images/CF/All_The_Forge_7/BH_ATF7_PromoCard.png)](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/All_The_Forge_7/BH_ATF7_PromoCard.png)](https://bisecthosting.com/AMPZ?r=ATFG7)
 
 # All The Forge 7 - ATF7 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
+
+---
+
+## Version: 7.5
+
+#### This will be the final update as this pack has now reached its End of Support<br>We recommend you update to latest All The Forge pack.
+
+### Updated:
+- Awesome Dungeon - Forge (2.0.5 → 3.2.0)
+- Cloth Config API (5.3.58 → 5.3.63)
+- Collective (47 → 4.25)
+- Connected Glass (1.1.1 → 1.1.11)
+- Controlling (8.0.12 → 8.0.12)
+- Cosmetic Armor Reworked (v1b → v2)
+- Curios API (5.0.2.3 → 5.0.2.7)
+- Engineer's Decor (1.1.18 → 1.1.19)
+- Exline's Awnings (1.1 → 1.0.2)
+- Extreme Reactors (2.0.38 → 2.0.51)
+- JourneyMap (5.8.0beta15 → 5.8.0)
+- Just Enough Items (8.3.1.62 → 8.3.1.1002)
+- Just Enough Resources (0.13.1.134 → 0.13.2.217)
+- Library Ferret (1.0.3 → 4.0.0)
+- Macaw's Bridges (2.0.1 → 2.1.0)
+- Macaw's Doors 1.0.5 → 1.1.0)
+- Macaw's Fences and Walls (1.0.2 → 1.1.1)
+- Macaw's Lights and Lamps (1.0.2 → 1.0.6)
+- Macaw's Roofs (2.1.0 → 2.3.0)
+- Macaw's Trapdoors (1.0.4 → 1.1.2)
+- Macaw's Windows (2.0.2 → 2.2.1)
+- Security Craft (1.9.0.2 → 1.9.5)
+- Simple Discord RPC (2.7.2 → 3.2.2)
+- The Twilight Forest (4.0.875 → 4.0.860)
+- ZeroCore 2 (2.1.11 → 2.1.23)
+
+### Changed/Fixed
+- Updated a some UI elements to match ATFG10.
+- Updated a few title screen button URL's.
+- Added a workaround for an issue causing clients unable to join in LAN servers
+- Improved the server renting experience when using our partner's in-game service: Modpack detection is now automated during checkout.
+
+### Added:
+- AppleSkin
+- FramedBlocks
+- Mouse Tweaks
+- Farmer's Delight
+- Lootr
+- NetherPortalFix
+- BisectHosting Server Integration Menu
+- Configured
+- Default Options
+- DrippyLoadingScreen
+- FallingTree
+- Macaw's Bridges - Biomes O Plenty
+
+### Removed:
+- Hidden Recipe Book
+- Tree Harvester
+- Croptopia
+- Twilight Forest
 
 ---
 
