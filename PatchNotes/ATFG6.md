@@ -5,6 +5,75 @@
 
 ---
 
+## Version: 6.16
+
+This will be the final update as this pack has now reached its End of Support<br>We recommend you update to latest All The Forge pack.
+
+### Updated:
+- Apotheosis (4.8.99F → 4.8.9A0)
+- Architectury API (1.32.66 → 1.32.68)
+- Ars Nouveau (1.25.1 → 1.25.10)
+- BisectHosting Server Integration Menu (2.3.1 → 2.4.1)
+- Blood Magic (3.1.11-34 → 3.1.13-39)
+- Bookshelf (10.4.32 → 10.4.33)
+- Botania (420.2 → 420.3)
+- Cloth Config API (4.14.64 → 4.17.101)
+- CoFH Core (1.5.0.11 → 1.4.2.22)
+- Collective (4.28 → 5.49)
+- Controlling (7.0.0.28 → 7.0.0.30)
+- Cosmetic Armor Reworked (v5 → v5a)
+- Curios API (4.0.5.3 → 4.1.0.0)
+- Cyclops Core (1.12.4 → 1.13.0)
+- Drippy Loading Screen (1.6.4 → 2.2.2)
+- Engineer's Decor (1.1.18 → 1.1.19)
+- Extreme Reactors (2.0.51 → 2.0.71)
+- FancyMenu (2.9.1 → 2.14.9)
+- Farming for Blockheads (7.3.1 → 7.3.2)
+- GeckoLib (3.0.81 → 3.0.106)
+- Immersive Petroleum (3.3.0-11 → 3.4.0-20)
+- Industrial Foregoing (3.2.14.6-14 → 3.2.14-19)
+- Integrated Dynamics (1.10.10 → 1.10.15)
+- Jade (2.8.1 → 2.8.3)
+- JourneyMap (5.8.5p5 → 5.8.5p6)
+- Just Enough Items (7.7.1.153 → 7.8.0.1009)
+- Konkrete (1.3.3-1 → 1.6.1)
+- Minecraft Forge 36.2.39 → 36.2.41)
+- OAuth (1.1.13 → 1.1.15)
+- Placebo (4.7.0 → 4.7.1)
+- Polymorph (0.40 → 0.41)
+- ShetiPhianCore (3.8.15 → 3.8.22)
+- Simple Discord RPC (3.0.1 → 3.2.3)
+- Sophisticated Backpacks (3.15.15.607 → 3.15.20.755)          
+- Tetranomicon (1.3 → 1.5.3)
+- Thermal Expansion (1.5.0.7 → 1.5.2.16)
+- Thermal Foundation (1.5.0.14 → 1.5.2.30)
+- Titanium (3.2.8.4-10 → 3.2.8.8-24)
+- Tree Harvester (5.1 → 5.9)
+- ZeroCore 2 (2.1.22 → 2.1.39)
+
+### Changed/Fixed
+- Rectified the issue where `splash.txt` failed to exhibit resource pack `splash.txt`.
+- Corrected the misalignment of the JEI search bar to center it by default.
+- Resolved the delay in JEI population until entering a single-player world.
+- Addressed a server-sided crash associated with Mark of the Falling Tower.
+- Eliminated a duplication glitch occurring when mossifying a Petal Apothecary.
+- Fixed a connectivity issue preventing clients from joining LAN servers.
+- Ensured the splash screen scales appropriately to the user's screen size.
+- Removed the store button from the title screen.
+- Updated several UI elements to align with ATFG10.
+- Rectified outdated or broken button links.
+- Implemented general performance enhancements.
+
+### Added:
+- AppleSkin
+- Lootr
+- FramedBlocks
+- Embeddium
+- Oculus
+- TexTrue's Embeddium Options
+
+---
+
 ## Version: 6.15.1
 
 #### This update is for CurseForge users only
