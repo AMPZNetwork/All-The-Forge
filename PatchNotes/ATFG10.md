@@ -5,6 +5,94 @@
 
 ---
 
+## Version: 10.8: (March 19th, 2024)
+
+### Updated:
+- Alex's Mobs (1.22.7 → 1.22.8)
+- Applied Energistics 2 (15.0.20 → 15.0.23)
+- Applied Energistics 2 Wireless Terminals (15.2.1 → 15.2.2)
+- Architectury API (9.1.12 → 9.2.14)
+- Balm (7.2.1 → 7.2.2)
+- CC: Tweaked (1.109.5 → 1.109.6)
+- Citadel (2.5.3 → 2.5.4)
+- Collective (7.30 → 7.4.0)
+- Cooking for Blockheads (16.0.1 → 16.0.3)
+- Create: Diesel Generators (1.2g → 1.2h)
+- Cupboard (2.3 → 2.6)
+- Curios API (5.7.0 → 5.7.2)
+- Config API (2.2.0 → 2.2.1)
+- Drippy Loading Screen (3.0.0 → 3.0.1)
+- Embeddium (0.3.1 → 0.3.9)
+- Embeddium++ (1.2.4 → 1.2.5)
+- Ender IO (6.0.23-alpha → 6.0.25-alpha)
+- Extreme sound muffler (3.41 → 3.41)
+- FancyMenu (3.0.6 → 3.1.2)
+- FramedBlocks (9.1.6 → 9.2.1)
+- Framework (0.6.16 → 0.6.27)
+- Guard Villagers (1.6.3 → 1.6.4)
+- GeckoLib (4.4.2 → 4.4.4)
+- JourneyMap (5.9.18 → 5.9.18p1)
+- Just Enough Items (15.3.0.1 → 15.3.0.4)
+- Lootr (0.7.31.78 → 0.7.32.79)
+- Mekanism (10.4.5.19 → 10.4.6.20)
+- Mekanism Generators (10.4.5.19 → 10.4.6.20)
+- Mekanism Tools (10.4.5.19 → 10.4.6.20)
+- Melody (1.0.2 → 1.0.3)
+- Moonlight Lib (2.9.7 → 2.11.4)
+- Netherite Horse Armor CJ (1.4.0 → 1.5.0)
+- Oculus (1.6.15 → 1.6.15a)
+- Placebo (8.6.0 → 8.6.1)
+- Silent Gear (3.5.3 → 3.5.4)
+- Sophisticated Backpacks (3.19.8.1000 → 3.20.4.2039)
+- Sophisticated Core (0.5.116.537 → 0.6.11.578)
+- Storage Drawers (12.0.2 → 12.0.3)
+- Silent Gear (3.5.4 → 3.6.0)
+- Structure Essentials (3.2 → 3.3)
+- Structure Gel API (2.16.0 → 2.16.1)
+- SuperMartijn642's Core Lib (1.1.16 → 1.1.17)
+- Titanium (3.8.25 → 3.8.27)
+- Trample No More (13.0.2 → 13.0.3)
+- Tree Harvester (8.6 → 8.7)
+- TrimsEffects (1.1.0 → 1.1.1)
+- The Aether (1.2.0 → 1.3.0)
+- YUNG's API (4.0.2 → 4.0.4)
+- YUNG's Better End Island (2.0.4 → 2.0.6)
+- YUNG's Better Nether Fortresses (2.0.5 → 2.0.6)
+
+### Changes and Fixes
+- Improved the pack version button's visibility to make it more intuitive for users to identify its clickable functionality.
+- Added multiple new title menu screenshots to enhance the visual experience.
+- Implemented a server status banner on both the Title screen and in-game pause menu to promptly notify users if our official server goes offline.
+- Fixed the issue where the news/update section failed to appear upon the initial load of the pack.
+- Resolved the server files forge installer failure caused by an API change implemented by Mojang post patch 10.7.
+- Addressed various instances of missing textures that weren't displaying properly after updating from version 10.7.
+- Corrected texture visibility problems on Linux handheld devices.
+- Fixed a crash that occurred when attempting to use a fluid without a block as camouflage.
+- Resolved monitor update failures on the client when chunks are unloaded and reloaded.
+- Fixed recipes for stairs and slabs in mekanism:sawing.
+- Rectified the issue of client monitors rendering both current and outdated contents simultaneously.
+- Addressed an item duplication bug.
+- Fixed crashes related to diesel engine usage.
+- Ensured Netherwood saplings now grow properly.
+- Resolved issues with guard villagers' tips.
+- Included the Controllable Mod as an optional feature for ATLauncher users to choose during pack installation or updates.
+- Adjusted text alignment on the loading screen for better clarity and readability.
+- Fixed a crash occurring when rotating prism blocks 180 degrees.
+- Improved controller behavior.
+- Updated CC: Tweaks default textures to match the style of the Creative mod, with credit to [ComputerCraft](https://modrinth.com/resourcepack/create-computercraft).
+
+### Added:
+- Alex's Delight
+- Immersive Paintings
+- Passthrough Signs
+- RyoamicLights
+- ObsidianUI
+- Common Sense
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.7: (February 7th, 2024)
 
 ### Updated:
