@@ -5,6 +5,20 @@
 
 ---
 
+## Version: 10.8.1: (March 19th, 2024)
+
+### Changes and Fixes
+- Incorporation of the [Applied Energistics Create resource pack](https://modrinth.com/resourcepack/created-applied-energistics) with full credit to Created Applied Energistics. Users have the option to enable this feature.
+- Eliminated Common Sense due to complications arising from replacing existing recipes.
+- Excluded the server status banner from the pause menu.
+
+### Removed:
+- Common Sense
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.8: (March 19th, 2024)
 
 ### Updated:
