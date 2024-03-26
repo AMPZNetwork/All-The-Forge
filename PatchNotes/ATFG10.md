@@ -5,6 +5,34 @@
 
 ---
 
+## Version: 10.8.2: (March 26th, 2024)
+
+### Updated:
+- CC: Tweaked (1.109.6 → 1.110.1)
+- Dungeons and Taverns (3.0.3 → 3.0.3.f)
+- JourneyMap (5.9.18p1 → 5.9.20)
+- Lootr (0.7.32.79 → 0.7.32.80)
+- Moonlight Lib (2.11.4 → 2.11.9)
+- Silent Gear (3.6.0 → 3.6.3)
+- Security Craft (1.9.8 → 1.9.9)
+
+### Changes and Fixes
+- Fixed JourneyMap not updating properly.
+- Fixed computers not turning on after they're unloaded/not-ticked for a while.
+- Fixed networking cables sometimes not connecting.
+- Fixed "Empty or non-existent pool: Minecraft:witch_hut/foundation" error.
+- Fixed splash screen and pause menu assets not displaying correctly again on Linux.
+- Fixed an issue with Security Craft allowing users to glitch through a floor made of reinforced blocks.
+- Applied Energistics 2 search will now use JEI by default instead of its own search box.
+- Sentry's recipe now requires a Reinforced Dispenser.
+
+### Added:
+- Blur
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.8.1: (March 19th, 2024)
 
 ### Changes and Fixes
