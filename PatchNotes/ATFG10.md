@@ -5,6 +5,85 @@
 
 ---
 
+## Version: 10.9: (May 6th, 2024)
+
+### Updated:
+- Applied Energistics 2 (15.0.23 → 15.1.1)
+- Applied Energistics 2 Wireless Terminals (15.2.2 → 15.2.3)
+- Bookshelf (20.1.9 → 20.1.10)
+- Blood Magic (3.3.2-44 → 3.3.3-45)
+- CC: Tweaked (1.110.1 → 1.110.3)
+- ChoiceTheorem's Overhauled Village (3.4.2 → 3.4.3)
+- Cooking for Blockheads (16.0.3 → 16.0.4)
+- Create: Steam 'n' Rails (1.5.3 → 1.6.3)
+- Curios API (5.7.2 → 5.9.0)
+- Caelus API (3.1.0 → 3.2.0)
+- Clumps (12.0.0.3 → 12.0.0.4)
+- Collective (1-7.40 → 1-7.56)
+- Deep Aether (1.0.2 → 1.0.3)
+- Easy Piglins (1.0.1 → 1.0.5)
+- Embeddium (0.3.9 → 0.3.12)
+- Embeddium++ (1.2.5 → 1.2.7)
+- Explorify – Dungeons & Structures (1.3.0 → 1.4.0)
+- FancyMenu (3.1.2 → 3.2.0)
+- FramedBlocks (9.2.1 → 9.2.2)
+- FLIB (0.0.11 → 0.0.12)
+- Guard Villagers (1.6.4 → 1.6.5)
+- Industrial Foregoing (3.5.14 → 3.5.16)
+- JourneyMap (5.9.20 → 5.9.21)
+- Jade (11.7.1 → 11.8.0)
+- Lootr (0.7.32.80 → 0.7.33.83)
+- Minecraft Forge  (47.2.20 → 47.2.23)
+- Macaw's Bridges (2.1.1 → 3.0.0)
+- Macaw's Bridges - Biomes O' Plenty (1.1 → 1.2)
+- Moonlight Lib (2.11.9 → 2.11.17)
+- McJtyLib (8.0.3 → 8.0.4)
+- Oculus (1.6.15a → 1.7.0)
+- ObsidianUI (0.2.1 → 0.2.3)
+- Polymorph (0.49.2 → 0.49.3)
+- Polymorphic Energistics (0.1.0 → 0.1.1)
+- Refined Polymorphism (0.1.0 → 0.1.1)
+- RFTools Base (5.0.2 → 5.0.3)
+- RFTools Builder (6.0.4 → 6.0.5)
+- The Aether (1.3.0 → 1.4.2)
+- YUNG's Better Dungeons (4.0.3 → 4.0.4)
+- Zume (0.17.0 → 0.18.1)
+
+### Changes and Fixes
+- Macaw's Bridges v3.0.0 has introduced some distortions in bridge appearances. To rectify this, simply place a block above or adjacent to the affected bridge or stairs. Alternatively, breaking and replacing them will trigger an update for neighboring bridges.
+- New bridge types have been incorporated:
+  - Bridge Torch & Lantern
+  - Bridge Piers
+  - Red Asian Bridge + Stairs
+  - Glass Bridge + Stairs
+- Rectified guards' failure to return to their checkpoints.
+- Enhanced support for mangrove trees in the plant gatherer.
+- Added a "Reconnect" button to the disconnect screen for convenience.
+- Addressed a server-side crash related to Mark of the Falling Tower.
+- Fixed the issue of the Plant Gatherer skipping blocks.
+- Resolved a client-side crash occurring when equipping an aerwhale saddle with legacy models enabled.
+- Corrected problems with Poison block placement from Skyroot Poison Bucket.
+- Enabled the crafting of dyed ovens.
+- Ensured the magnet card functions properly in a wireless universal terminal even without a pattern encoding terminal installed.
+- Prevented modems from breaking when moved by Create.
+- Eliminated a rare crash occurring while holding a pocket computer.
+- Fixed the issue of waypoint schedule items not displaying in the Station Summary.
+- Updated the appearance of waystones with a new [resource pack](https://www.curseforge.com/minecraft/texture-packs/fresh-waystones-texture).
+- Reduced damage taken from Virulent Quicksand.
+- Tweaked the content of the Black Spiral dungeon.
+- Enhanced performance when navigating menus.
+
+### Added:
+- Refined Storage Addons
+- Roughly Enough Items
+
+### Removed:
+- Just Enough Items
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.8.2: (March 26th, 2024)
 
 ### Updated:
