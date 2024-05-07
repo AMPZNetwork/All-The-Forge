@@ -5,6 +5,34 @@
 
 ---
 
+## Version: 10.9.1: (May 7th, 2024)
+
+### Updated:
+- Embeddium (0.3.12 → 0.3.14)
+- Embeddium++ (1.2.7 → 1.2.8)
+- Sophisticated Backpacks (3.20.3.1029 → 3.20.5.1044)
+- Sophisticated Core (0.6.11.578 → 0.6.21.609)
+- ShetiPhianCore (1.2 → 1.3)
+- TerraBlender (3.0.1.4 → 3.0.1.6)
+
+### Changes and Fixes
+- Switched back to JEI to address compatibility issues.
+- Corrected the multiplayer list to prevent it from resetting users server lists when updating the modpack.
+- Restored the particles option to its default setting.
+
+### Added:
+- Just Enough Items
+- Configured
+- Desired Servers
+
+### Removed:
+- Roughly Enough Items
+- REI Plugin Compatibilities
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.9: (May 6th, 2024)
 
 ### Updated:
