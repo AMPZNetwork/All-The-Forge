@@ -5,6 +5,89 @@
 
 ---
 
+## Version: 10.10: (June 15th, 2024)
+
+#### Development on the next version of All The Forge for 1.21 has started.
+
+### Updated:
+- Amplified Nether (1.2.4 → 1.2.5)
+- Applied Energistics 2 (15.1.1 → 15.2.3)
+- Balm (7.2.2 → 7.3.4)
+- Bookshelf (20.1.10 → 20.2.13)
+- CC: Tweaked (1.110.3 → 1.111.0)
+- CoFH Core (11.0.0.51 → 11.0.2.56)
+- Collective (7.56 → 7.61)
+- Config API (2.2.1 → 2.2.5)
+- Continents (1.1.4 → 1.1.5)
+- Cooking for Blockheads (16.0.4 → 16.0.6)
+- Create: Diesel Generators (1.2h → 1.2i)
+- Create: Steam 'n' Rails (1.6.3 → 1.6.4)
+- Curios API (5.9.0 → 5.9.1)
+- ChoiceTheorem's Overhauled Village (3.4.3 → 3.4.4)
+- CraterLib (1.1.1 → 2.0.0)
+- Embeddium (0.3.12 → 0.3.20)
+- Embeddium++ (1.2.7 → 1.2.13)
+- Entity Culling (1.6.2 → 1.6.5)
+- Extreme Reactors (2.0.77 → 2.0.78)
+- Elytra Slot  (6.3.0 → 6.4.0)
+- FancyMenu (3.2.0 → 3.2.3)
+- FLIB (0.0.12 → 0.0.13)
+- FramedBlocks (9.2.2 → 9.3.0)
+- Framework (0.6.27 → 0.7.6)
+- GeckoLib (4.4.4 → 4.4.6)
+- Industrial Foregoing (3.5.16 → 3.5.17)
+- Jade (11.8.0 → 11.9.2)
+- JourneyMap (5.9.21 → 5.9.23)
+- Just Enough Items (15.3.0.4 → 15.3.0.6)
+- Kotlin for Forge (4.10.0 → 4.11.0)
+- Let Me Despawn (1.2.0 → 1.2.1)
+- Lootr (0.7.33.83 → 0.7.34.86)
+- McJtyLib (8.0.4 → 8.0.5)
+- Mekanism (10.4.6.20 → 10.4.8.43)
+- Mekanism Generators (10.4.7.42 → 10.4.8.43)
+- Mekanism Tools (10.4.6.20 → 10.4.8.43)
+- Moonlight Lib (2.11.17 → 2.11.37)
+- Mouse Tweaks (2.25 → 2.25.1)
+- Open Loader (19.0.3 → 19.0.4)
+- Placebo (8.6.1 → 8.6.2)
+- Polymorph (0.49.3 → 0.49.5)
+- RyoamicLights (0.2.1 → 0.2.3)
+- Sophisticated Backpacks (3.20.3.1029 → 3.20.5.1044)
+- Sophisticated Core (0.6.11.578 → 0.6.22.611)
+- ShetiPhianCore (1.2 → 1.3)
+- Searchables (1.0.2 → 1.0.3)
+- Security Craft (1.9.9 → 1.9.10)
+- Simple Discord RPC (3.2.4 → 3.3.0)
+- TerraBlender (3.0.1.4 → 3.0.1.6)
+- ZeroCore 2 (2.1.41 → 2.1.42)
+- Zume (0.18.1 → 0.19.1)
+
+### Changes and Fixes
+- Fixed "Reconnect" button overlaping the back to server list button.
+- Fixed dupe bug with some blocks.
+- Fix archbar bogey axle locations & Texture.
+- Fixed engines duping su.
+- Fix dupe when removing fluid camo with dynamic fluid containers in off-hand.
+- Fixed `disk.getAudioTitle()` returning untranslated strings for some modded discs.
+- Fixed blueprint duping flower pot content.
+- Fixed black hole units losing the nbt of items when stored in controllers.
+- Fixed FireworkGeneratorCategory not showing up in JEI.
+- Added three new titlescreen wallpapers courtesy of our [Discord](https://discord.com/channels/495506209881849856/1221862768509059133/threads/1239991118867857639/1239991118867857639) community.
+- Extreme Reactors will now work with CC: Tweaked once again.
+- Re-enabled Alex mob Flys and Void Worm as highly requested by may community members.
+- Removed Waystone texture due to confliting with resource packs.
+
+### Added:
+- Artemis' Laboratory Blocks
+- Fusion
+
+### Removed:
+- TexTrue's Embeddium Options
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.9.1: (May 7th, 2024)
 
 ### Updated:
