@@ -5,6 +5,76 @@
 
 ---
 
+## Version: 10.11: (July 1st, 2024)
+
+### Updated:
+- Applied Energistics 2 (15.2.3 → 15.2.7)
+- Balm (7.3.4 → 7.3.6)
+- Collective (7.68 → 7.70)
+- Config API (2.2.5 → 2.3.2)
+- Cupboard (2.6 → 2.7)
+- Deep Aether (1.0.3 → 1.0.4)
+- Ender IO (6.0.25-alpha → 6.1.5-beta)
+- Embeddium (0.3.20 → 0.3.21)
+- Embeddium++ (1.2.12 → 1.2.13)
+- Explorify (1.4.0 → 1.6.1)
+- Entity Culling (1.6.5 → 1.6.6)
+- Extreme Reactors (2.0.78 → 2.0.81)
+- Extreme sound muffler (3.41 → 3.47)
+- GeckoLib (4.4.6 → 4.4.7)
+- Guard Villagers (1.6.5 → 1.6.6)
+- Industrial Foregoing (3.5.17 → 3.5.19)
+- JourneyMap (5.9.23 → 5.10.0)
+- Just Enough Items (15.3.0.6 → 15.3.0.8)
+- Macaw's Doors (1.1.0 → 1.1.1)
+- Macaw's Fences - Biomes O' Plenty (1.0 → 1.1)
+- Macaw's Fences and Walls (1.1.1 → 1.1.2) 
+- Macaw's Lights and Lamps (1.0.6 → 1.1.0)
+- Macaw's Bridges - Biomes O' Plenty (1.2 → 1.3)
+- Moonlight Lib (2.11.37 → 2.12.6)
+- RF Tools Base (5.0.3 → 5.0.4)
+- Simple Discord RPC (3.3.0 → 3.3.1)
+- Structure Essentials (3.3 → 3.4)
+- Structure Gel API (2.16.1 → 2.16.2)
+- Twilight Forest (4.3.2145 → 4.3.2508)
+- TerraBlender (3.0.1.6 → 3.0.1.7)
+- Thermal Dynamics (11.0.0.21 → 11.0.1.23)
+- Thermal Expansion (11.0.0.27 → 11.0.1.29)
+- Thermal Foundation (11.0.2.64 → 11.0.6.70)
+- Thermal Innovation (11.0.0.21 → 11.0.1.23)
+- Thermal Locomotion (11.0.0.17 → 11.0.1.19)
+- Titanium (3.8.27 → 3.8.32)
+- TrimsEffects (1.1.1 → 1.3.1)
+- YUNG's API (4.0.4 → 4.0.5)
+- YUNG's Better Jungle Temples (2.0.4 → 2.0.5)
+- ZeroCore 2 (2.1.42 → 2.1.44)
+- Zume (0.19.1 → 1.0.0)
+
+### Changes and Fixes
+- Added some more community wallpapers as well as replaced some existing title screen images.
+- Fixed an issue with **"Reconnect"** button displaying FancyMenu message when clicked.
+- Fixed some slabs not being Waterloggable.
+- Fixed an issue with some modded fluids not being visible.
+- Fixed an issue with users keybinds and options resetting after a pack update.
+- Fixed black hole units losing the nbt of items when stored in controllers.
+- Fixed an issue where black hole units could transmute items.
+- Updated custom Bdcraft texture pack, available [here](https://mega.nz/folder/1k4j3IJL#YQ1NMOSpT0nNx6bkuYrZvw). Full credit to the Bdcraft team and community for the textures used.
+- General performance improvements.
+
+### Added:
+- ME Requester
+- ExtendedAE
+- Easy Emerald Tools & More
+
+### Removed:
+- ChoiceTheorem's Overhauled Village
+- Lithostitched
+- [Forked] Easy Emerald Tools & More
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.10: (June 15th, 2024)
 
 #### Development on the next version of All The Forge for 1.21 has started.
