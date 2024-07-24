@@ -5,6 +5,47 @@
 
 ---
 
+## Version: 10.12: (July 24th, 2024)
+
+### Updated:
+- Applied Energistics 2 (15.2.7 → 15.2.10)
+- Collective (7.70 → 7.74)
+- Citadel (2.5.4 → 2.5.6)
+- Comforts (6.3.5 → 6.4.0)
+- CraterLib (2.0.0 → 2.0.1)
+- Create Slice & Dice (3.2.0 → 3.2.1)
+- Easy Piglins (1.0.5 → 1.0.9)
+- Easy Villagers (1.0.17 → 1.1.15)
+- Elytra Slot (6.4.0 → 6.4.2)
+- Embeddium (0.3.21 → 0.3.27)
+- EnderIO (6.1.5 → 6.1.8)
+- ExtendedAE (1.1.10 → 1.1.11)
+- Extreme Reactors (2.0.81 → 2.0.83)
+- Extreme sound muffler (3.47 → 3.48)
+- FLIB (0.0.13 → 0.0.14)
+- JourneyMap (5.10.0 → 5.10.1)
+- Just Enough Items (15.3.0.8 → 15.8.0.16)
+- Minecraft Forge (47.2.23 → 47.2.36)
+- Macaw's Roofs (2.3.0 → 2.3.1)
+- Moonlight Lib (2.12.6 → 2.12.9)
+- Simple Discord RPC (3.3.1 → 3.3.2)
+- Waystones (14.1.3 → 14.1.4)
+- Zume (1.0.0 → 1.1.1)
+ 
+### Changes and Fixes
+- Fixed server lag when playing on another person’s world via LAN or direct connection [#20](https://github.com/AMPZNetwork/All-The-Forge/issues/20)
+- Fixed an issue where slabs placed in front of a roof made the face of the slab invisible.
+- Fixed harvesters not using shears for leaves anymore.
+- Fixed waypoints disappearing when switching dimensions.
+
+### Added:
+- Create Enchantment Industry
+- Create Crafts & Additions
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.11: (July 1st, 2024)
 
 ### Updated:
