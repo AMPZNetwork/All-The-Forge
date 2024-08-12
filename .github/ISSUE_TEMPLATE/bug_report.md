@@ -1,33 +1,46 @@
 ---
-name: Bug report
-about: Issue report for All The Forge modpack
+name: Bug Report
+about: Report an issue for the All The Forge modpack
 title: "[BUG]"
 labels: Bug
-assignees: LabsZero
-
 ---
 
-## Bug Description
-Please provide a concise description of the issue you're experiencing.
+## Basic Information (please complete the following):
+- **Operating System:** [e.g., Windows]
+- **All The Forge Version:** [e.g., 11.0]
+- **Platform:** [e.g., ATLauncher]
+- **Additional Mods Installed:** [e.g., Optifine]
 
-## Reproduction Steps
-To replicate the problem, follow these steps:
+## Bug Description
+Provide a clear and concise description of the issue.
+
+## Steps to Reproduce
+To reproduce the issue, follow these steps:
 1. Navigate to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. Observe the error
 
-## Expected Outcome
-Explain what you anticipated should happen in detail.
+## Expected Behavior
+Describe what you expected to happen.
 
 ## Crash Log (if applicable)
-If the bug triggers a crash, please include or link the crash log here.
+If the bug causes a crash, attach or drag and drop the crash log here.
+
+<details>
+<summary>Crash Log</summary>
+<pre>
+[Paste your crash log here]
+</pre>
+</details>
 
 ## Screenshots
-If relevant, include screenshots to aid in explaining the issue.
+If applicable, add screenshots to help explain your problem.
 
-## Basic Information (please fill in the following details):
- - Operating System: [e.g., Windows]
- - All The Forge Version: [e.g., 5.4]
- - Platform: [e.g., atlauncher]
- - Additional Mods Installed: [e.g., Optifine]
+### Confirmation
+
+- [X] I have confirmed that All The Forge is up to date.
+- [X] I have not modified the pack.
+- [X] I have checked that no other mods are causing the issue.
+- [X] I have searched the existing issues to ensure this is not a duplicate.
+- [X] I have provided the necessary information above to help reproduce this issue.
