@@ -5,6 +5,90 @@
 
 ---
 
+## Version: 10.13: (September 19th, 2024)
+
+### Updated:
+- Alex's Mobs (1.22.8 → 1.22.9)
+- Artemis' Laboratory Blocks (0.4.1r → 0.5r)
+- Absent by Design (1.8.0 → 1.9.0)
+- Applied Energistics 2 (15.2.10 → 15.2.13)
+- Balm (7.3.6 → 7.3.9)
+- Better Advancements (0.3.2.161 → 0.4.2.10)
+- CC: Tweaked (1.111.0 → 1.113.1)
+- Citadel (2.5.6 → 2.6.0)
+- Collective (7.74 → 7.84)
+- CraterLib (2.0.1 → 2.1.0)
+- Create (0.5.1.f → 0.5.1.h)
+- Create Crafts & Additions (1.2.4d → 1.2.4e)
+- Create: Steam 'n' Rails (1.6.4 → 1.6.5)
+- Create Slice & Dice (3.2.1 →3.3.0)
+- Curios API (5.9.1 → 5.10.0)
+- Cooking for Blockheads (16.0.6 → 16.0.9)
+- Easy Piglins (1.0.9 → 1.0.13)
+- Easy Villagers (1.1.15 → 1.1.23)
+- Elytra Slot (6.4.2 → 6.4.3)
+- Embeddium (0.3.27 → 0.3.31)
+- Entity Culling Fabric/Forge (1.6.6 → 1.7.0)
+- ExtendedAE (1.1.11 → 1.1.14)
+- Extreme Reactors (2.0.83 → 2.0.84)
+- Explorify – Dungeons & Structures (1.6.1 → 1.6.2)
+- FramedBlocks (9.3.0 → 9.3.1)
+- Framework (0.7.6 → 0.7.8)
+- GeckoLib (4.4.7 → 4.4.9)
+- Guard Villagers (1.6.6 → 1.6.7)
+- Jade (11.9.2 → 11.11.1)
+- Jade Addons (5.2.2 → 5.3.1)
+- JourneyMap (5.10.1 → 5.10.2)
+- JourneyMap Integration (0.14-45 → 0.14-48)
+- Just Enough Items (15.8.0.16 → 19.0.88)
+- Lootr (0.7.34.86 → 0.7.34.89)
+- Minecraft Forge (47.2.36 → 47.3.10)
+- Macaw's Fences - Biomes O' Plenty (1.1 → 1.2)
+- Macaw's Furniture (3.2.2 → 3.3.0)
+- Macaw's Furnitures - Biomes O' Plenty (1.1 → 1.2)
+- Macaw's Roofs - Biomes O' Plenty (1.0 → 1.1)
+- Macaw's Windows (2.2.1 → 2.3.0)
+- McJtyLib (8.0.5 → 8.0.6)
+- ME Requester (1.1.4 → 1.1.5)
+- Mekanism (10.4.8.43 → 10.4.9.61)
+- Mekanism Generators (10.4.8.43 → 10.4.9.61)
+- Mekanism Tools (10.4.8.43 → 10.4.9.61)
+- Moonlight Lib (2.12.9 → 2.13.0)
+- RFTools Base (5.0.4 → 5.0.5)
+- RFTools Builder (6.0.5 → 6.0.8)
+- Silent Gear (3.6.3 → 3.6.6)
+- Simple Discord RPC (3.3.2 → 3.3.3)
+- ZeroCore 2 (2.1.44 → 2.1.45)
+
+### Changes and Fixes
+- Macaw’s Windows v2.3.0 has introduced some distortions with resizable windows placed facing south. These windows will need to be broken and placed again due to extensive optimizations. Only the windows placed in this orientation require adjustment.
+- Added new Macaw's Furniture 
+  - Kitchen Cabinets
+  - Double Kitchen Cabinets
+  - Glass Kitchen Cabinets
+- Fixed modems not moving with Create contraptions.
+- Fixed Schematic preview not disappearing when item is taken out of the hotbar.
+- Fixed Creates creative tab randomly missing items when addons are installed.
+- Fixed train casing tooltip telling you to hold alt for the bogey menu.
+- Fixed hunger depletion when controlling trains.
+- Fixed a problem with the wrench not properly rotating blocks anymore.
+- Disabled lootr warning message when breaking a randomly spawned chest.
+- Removed Suggestions button as not longer accepting new suggestions for this version of All The Forge modpack.
+- Removed "Reconnect" button.
+- Guard Villagers will now teleport if they are following a player.
+
+### Added:
+- Packet Fixer
+- Sodium/Embeddium Dynamic Lights
+
+### Removed:
+- RyoamicLights
+- ObsidianUI
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.12: (July 24th, 2024)
 
 ### Updated:
