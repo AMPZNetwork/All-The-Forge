@@ -5,6 +5,64 @@
 
 ---
 
+## Version: 10.14: (November 21st, 2024)
+
+### Updated:
+- BisectHosting Server Integration Menu (2.4.1 → 2.4.2)
+- Bad Wither No Cookie - Reloaded (3.17.0 → 3.17.1)
+- CC: Tweaked (1.113.1 → 1.114.0)
+- Cloth Config API (11.1.118 → 11.1.136)
+- Collective (7.84 → 7.87)
+- CraterLib (2.1.0 → 2.1.1)
+- Create (0.5.1.h → 0.5.1.i)
+- Create: Steam 'n' Rails (1.6.5 → 1.6.7)
+- Cristel Lib (1.1.5 → 1.1.6)
+- Curios API (5.10.0 → 5.11.0)
+- Drippy Loading Screen (3.0.1 → 3.0.9)
+- Elytra Slot (6.4.3 → 6.4.4)
+- Ender IO (6.1.8-beta → 6.2.2-beta)
+- Entity Culling (1.7.0 → 1.7.1)
+- ExtendedAE (1.1.14 → 1.2.1)
+- Extreme Reactors (2.0.84 → 2.0.90)
+- FancyMenu (3.2.3 → 3.3.2)
+- Farmer's Delight (1.2.4 → 1.2.5)
+- Framework (0.7.8 → 0.7.12)
+- JourneyMap (5.10.2 → 5.10.3)
+- Just Enough Items (15.19.0.88 → 15.20.0.105)
+- Let Me Despawn (1.2.1 → 1.4.4)
+- Minecraft Forge (47.3.10 → 47.3.12)
+- Mekanism (10.4.9.61 → 10.4.10.66)
+- Mekanism Generators (10.4.9.61 → 10.4.10.66)
+- Mekanism Tools (10.4.9.61 → 10.4.10.66)
+- Moonlight Lib (2.13.0 → 2.13.28)
+- Security Craft (1.9.10 → 1.9.11) 
+- Sodium/Embeddium Dynamic Lights (1.0.2 → 1.0.9)
+- Sophisticated Backpacks (3.20.5.1044 → 3.20.15.1143)
+- Sophisticated Core (0.6.22.611 → 0.7.6.779)
+- Storage Drawers (12.0.3 → 12.9.12)
+- SuperMartijn642's Core Lib (1.1.17 → 1.1.17a)
+- The Aether (1.4.2 → 1.5.1)
+- YUNG's API (4.0.5 → 4.0.6)
+- Waystones (14.1.4 → 14.1.6)
+- ZeroCore 2 (2.1.45 → 2.1.47)
+
+### Changes and Fixes
+- Fixed some containers not limiting stack sizes when inserted into by mods like AE2.
+- Fixed command slot arguments on dedicated servers not working as expected.
+- Fixed Lily pads cannot be placed on Reinforced Ice.
+- Disabled Alex mobs flying fish.
+- Addressed a bunch of item duplication bugs.
+- Restored JEI search bar back to the centre.
+- Added a preview ATFG11 button to the pause menu.
+- More blocks now support the Disguise Module: Keypad Door, Keypad Trapdoor, Passcode-Protected Chest, Reinforced Dispenser, Reinforced Dropper, Reinforced Hopper, Scanner Door, Scanner Trapdoor, Security Camera, Sonic Security System.
+
+### Removed:
+- Zume
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.13: (September 19th, 2024)
 
 ### Updated:
