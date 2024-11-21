@@ -1,6 +1,6 @@
 [![](https://www.bisecthosting.com/images/CF/All_the_Forge_10/BH_ATF10_promo.webp)](https://bisecthosting.com/AMPZ?r=cf_atf10)
 
-# All The Forge 10 - ATF10 | Patch Notes
+# All The Forge v10 | Patch Notes
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
