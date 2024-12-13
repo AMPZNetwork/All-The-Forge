@@ -5,6 +5,50 @@
 
 ---
 
+## Version: 10.15: (December 13th, 2024)
+
+### Updated:
+- Applied Energistics 2 (15.2.13 → 15.2.15)
+- Bad Wither No Cookie - Reloaded (3.17.1 → 3.17.2)
+- CC: Tweaked (1.114.0 → 1.113.1)
+- CraterLib (2.1.1 → 2.1.2)
+- Ender IO (6.2.2-beta → 6.2.5-beta)
+- EnderChests (1.2 → 1.3)
+- Entity Culling (1.7.1 → 1.7.2)
+- Farmer's Delight (1.2.5 → 1.2.6)
+- Inventory Sorter (23.0.1 → 23.0.8)
+- Lootr (0.7.34.89 → 0.7.35.90)
+- Moonlight Lib (2.13.28 → 2.13.37)
+- Mekanism (10.4.10.66 → 10.4.11.67)
+- Mekanism Generators (10.4.10.66 → 10.4.11.67)
+- Mekanism Tools (10.4.10.66 → 10.4.11.67)
+- Security Craft (1.9.11 → 1.9.12)
+- ShetiPhianCore (1.3 → 1.4)
+- Sodium/Embeddium Options API (1.0.6 → 1.0.8)
+- Sophisticated Backpacks (3.20.15.1143 → 3.20.17.1150)
+- Sophisticated Core (0.7.6.779 → 1.0.0.807)
+- Storage Drawers (12.9.12 → 12.9.13)
+- Tree Harvester (8.7 → 9.1)
+- TrimsEffects (1.3.1 → 1.3.5)
+
+### Changes and Fixes
+- Fixed report player button being off centred.
+- Fixed crafting job progress bar exceeding 100% with container items.
+
+### Added:
+- Continuity
+- Forgified Fabric API
+- Sinytra Connector
+- Entity Texture Features
+- Entity Model Features
+- Macaw's Holiday
+- Macaw's Stairs
+- Macaw's Trapdoors
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 ## Version: 10.14: (November 21st, 2024)
 
 ### Updated:
