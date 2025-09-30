@@ -5,4 +5,10 @@
 
 ---
 
+Version: 11.0 (September 30th, 2025)
+
+- Initial Release.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
 ---
