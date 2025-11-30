@@ -4,6 +4,26 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+
+Version: 11.0.2hf (November 30th, 2025)
+
+### Updated:
+- Create Crafts & Additions (1.5.8 → 1.5.9)
+- Sophisticated Backpacks (3.24.19.1292 → 3.25.14.1410)
+- Sophisticated Core (1.4.46.1216 → 1.3.89.1239)
+- Sophisticated Storage (1.4.46.1216 → 1.5.16.1369)
+- Sophisticated Storage Create Integration (0.1.11.37 → 0.1.13.54)
+- Sophisticated Backpacks Create Integration (0.1.3.13 → 0.1.5.29)
+- FTB Library (2101.1.26 → 2101.1.28)
+
+## Changed/Fixed
+- Fixed a critical crash linked to placing Sophisticated Storage containers onto Create contraptions.
+- Removed the previous usage restriction for the Essentials Mod.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 Version: 11.0.1 (November 19th, 2025)
 
 ### Updated:
