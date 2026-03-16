@@ -5,6 +5,21 @@
 
 ---
 
+Version: 11.1hf (February 16th, 2026)
+
+### Updated:
+- FramedBlocks (10.5.3 → 10.5.2)
+- Cooking for BlockHeads (21.1.17 → 21.1.18)
+- Lithium (0.15.2 → 0.15.3)
+
+## Changed/Fixed
+- Fixed server-side rendering glitches for chests using Framed Blocks.
+- Patched a rare crash triggered by dyeing Fridges.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 Version: 11.1.0 (February 12th, 2026)
 
 ### Updated:
