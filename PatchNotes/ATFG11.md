@@ -5,6 +5,19 @@
 
 ---
 
+Version: 11.2.1hf (April 24th, 2026)
+
+### Updated:
+- NeoForge (21.1.227 → 21.1.219)
+- Moonlight Lib ( 2.29.33 → 2.29.20)
+
+## Changed/Fixed
+- Addressed server-side crash affecting hybrid server implementations like Arclight.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 Version: 11.2.0 (April 24th, 2026)
 
 ### Updated:
