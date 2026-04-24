@@ -5,6 +5,71 @@
 
 ---
 
+Version: 11.2.0 (April 24th, 2026)
+
+### Updated:
+- AddonsLib (1.9 → 1.10)
+- Amplified Nether (1.2.13 → 1.2.14)
+- AppleSkin (3.0.8 → 3.0.9) 
+- Chunk Sending (2.8 → 2.9)
+- Collective (8.13 → 8.20)
+- Cooking for Blockheads (21.1.18 → 21.1.21)
+- CoroUtil (1.3.8 → 1.3.9)
+- Crash Assistant (1.11.0 → 1.11.8)
+- Create (6.0.9 → 6.0.10)
+- Cupboard (2.9 → 3.5)
+- Ender IO (8.1.3-beta → 8.2.6-beta)
+- Explorer's Compass (3.0.3 → 3.4.0)
+- Extreme sound muffler (3.55 → 3.56)
+- Farmer's Delight (1.2.10 → 1.2.11a)
+- Farming for Blockheads (21.1.12 → 21.1.13)
+- Fast IP Ping (1.0.8 → 1.0.11)
+- FramedBlocks (10.5.2 → 10.5.3)
+- FTB Library (2101.1.30 → 2101.1.31)
+- FTB Teams (2101.1.9 → 2101.1.10)
+- LambDynamicLights (4.8.7 → 4.8.8)
+- Lithostitched (1.6.1 → 1.7.0)
+- Lootr (1.11.36.117 → 1.11.37.118)
+- Macaw's Biomes O' Plenty (1.4 → 1.5)
+- Mekanism (10.7.18.84 → 10.7.19.85)
+- Mekanism Generators (10.7.18.84 → 10.7.19.85)
+- Mekanism Tools (10.7.18.84 → 10.7.19.85)
+- Moonlight Lib (2.29.20 → 2.29.33)
+- Nature's Compass (3.0.3 → 3.4.0)
+- NeoForge (21.1219 → 21.1.227)
+- Sophisticated Backpacks (3.25.31.1560 → 3.25.41.1683)
+- Sophisticated Core (1.4.7.1515 → 1.4.25.1696)
+- Sophisticated Storage (1.5.29.1512 → 1.5.40.1652)
+- Sophisticated Storage Create Integration (0.1.13.54 → 0.1.15.122)
+- SuperMartijn642's Core Lib (1.1.20 → 1.1.21)
+- Tectonic (3.0.19 → 3.0.22)
+- Twilight Forest (4.8.3287 → 4.8.3345)
+- Waystones (21.1.28 → 21.1.30) 
+
+## Changed/Fixed
+- Fixed an issue where Darkwood trees caused significant TPS drops.
+- Fixed postbox duplication if someone breaks it while it is still being accessed.
+- Fixed schedules not stacking after copy.
+- Fixed recipes with missing ingredients showing up as options when selecting a craftable.
+- Fixed hoppers not inserting into Cooking for Blockheads containers.
+- Fixed mushroom colonies floating without support when under a light level of 13.
+- Added support for Farmer's Delight Cooking Pot.
+- Resolved a crash affecting users with Intel integrated graphics.
+- Increased Twilight Forest boss loot and implemented health scaling (20 HP per additional nearby player) to prevent malicious exploitation of boss fights.
+- Capped the maximum tree harvesting height to 150 blocks per cut to prevent malicious actions against players and server stability.
+
+### Added:
+- Just Enough Resources
+- FallingTree
+- Trashslot
+
+### Removed:
+- Tree Harvester
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 Version: 11.1hf (February 16th, 2026)
 
 ### Updated:
