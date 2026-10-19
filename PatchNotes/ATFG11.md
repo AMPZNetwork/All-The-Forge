@@ -5,6 +5,106 @@
 
 ---
 
+Version: 11.3.0 (October 19th, 2026)
+
+### Updated:
+- NeoForge (21.1.219 → 21.1.264)
+- AddonsLib (1.10 → 1.14)
+- AE2 Import Export Card (1.4.3 → 1.9.1)
+- AEInfinityBooster (1.0.0.54 → 1.0.0.58)
+- Amplified Nether (1.2.14 → 1.2.16)
+- Balm (21.0.56 → 21.0.66)
+- Barbeque's Delight ( 1.2.2 → 1.3.0)
+- Biomes O' Plenty (21.1.0.13 → 21.1.0.14)
+- Chisel Reborn (2.0.0 → 2.0.1)
+- Applied Energistics 2 (19.2.17 → 19.2.18)
+- Applied Energistics 2 Wireless Terminals (19.4.1 → 19.5.1)
+- Applied Flux (2.1.4 → 2.1.6)
+- Architectury API (13.0.8 → 13.0.11)
+- Accessories (1.1.0-beta.53 → 1.1.0-beta.54)
+- Athena (4.0.2 → 4.0.6)
+- Chunk Sending (2.9 → 4.1)
+- Collective ( 8.20 → 8.53)
+- Connectivity (7.6 → 8.58)
+- Controlify (2.5.2 → 3.0.1)
+- Cooking for Blockheads (21.1.21 → 21.1.24)
+- Create Crafts & Additions (1.5.10 → 1.6.0)
+- Cucumber Library (8.0.15 → 8.0.16)
+- Configurable (3.5.2 → 3.5.3)
+- Emojiful (5.2.2 → 5.2.4)
+- Ender IO (8.2.6 → 8.2.12-beta)
+- CraterLib (2.1.5 → 3.1.3)
+- Cupboard (3.5 → 4.2)
+- Drippy Loading Screen (3.1.0 → 3.1.5)
+- Easy Villagers (1.1.23 → 1.1.47)
+- Extreme sound muffler (3.56 → 3.57)
+- FancyMenu (3.8.1 → 3.9.14)
+- Farmer's Delight (1.2.11a → 1.3.4)
+- Farming for Blockheads (21.1.13 → 21.1.14)
+- Fast IP Ping (1.0.11 → 1.0.12)
+- Fast Paintings (1.3.0 → 1.3.1)
+- First Join Message (3.8 → 3.9)
+- FramedBlocks (10.5.3 → 10.6.3)
+- FTB Chunks (2101.1.14 → 21.01.1.22)
+- FTB Library (2101.1.31 → 2101.1.37)
+- FTB Teams (2101.1.10 → 2101.1.11)
+- GlitchCore (2.1.0.0 → 2.1.0.2)
+- GraveStone Mod (1.0.35 → 1.0.40)
+- Guard Villagers (2.4.7 → 2.4.12)
+- GuideME (21.1.15 → 21.1.19)
+- Jade (15.10.5 → 15.10.6)
+- Jade Addons (6.1.0 → 6.1.2)
+- Just Enough Breeding (1.6.2 → 3.3.1)
+- Just Enough Items (19.27.0.340 → 19.64.0.455)
+- Kotlin for Forge (5.11.0 → 5.12.0)
+- LambDynamicLights (4.8.8 → 4.8.11)
+- Lithium (0.15.3 → 0.15.4)
+- Lithostitched (1.7.0 → 1.8.1)
+- Lootr (1.11.37.118 → 1.11.38.127)
+- Macaw's Biomes O' Plenty (1.5 → 1.6)
+- Moonlight Lib (2.29.20 → 3.7.2)
+- Neruina (2.2.11 → 3.3.5)
+- oωo (0.12.15.5 → 0.12.15.6)
+- Placebo (9.9.1 → 9.9.4)
+- Security Craft (1.10.1 → 1.10.2.1)
+- Simple Discord RPC (3.3.2 → 4.1.4)
+- Sophisticated Backpacks (3.25.41.1683 → 3.26.12.2208)
+- Sophisticated Backpacks Create Integration (0.1.5.29 → 0.2.2.188)
+- Sophisticated Core (1.4.25.1696 → 1.5.14.2413)
+- Sophisticated Storage (1.5.40.1652 → 1.6.7.2184)
+- Sophisticated Storage Create Integration (0.1.16.122 → 0.1.23.246)
+- SuperMartijn642's Core Lib (1.1.21 → 1.1.25)
+- Tectonic (3.0.22 → 3.0.28)
+- Tesseract 1.0.38 → 1.0.39)
+- Titanium (4.0.37 → 4.0.43)
+- TrashSlot (21.1.9 → 21.1.11)
+- Waystones (21.1.30 → 21.1.46)                                
+
+## Changed/Fixed
+- Fixed (security): address NeoForge CVSS 6.5 vulnerabilities.
+- Fixed memory leak in `BlockEntityOnLoadCallback`
+- Fixed an disconnection issue when restock results in empty stacks.
+- Fixed inventory blocks not being clearable.
+- Fixed farmers delight container items splilling into the ingredient slots when shit clicking an excess amount into the cooking pots container slot.
+- Fixed team claim limits not getting updated immediately after a player leaves the team.
+- Fixed rotation of a security camera can become desynced between client and server.
+- Fixed nested backpacks closing instead of returning to the parent after using sort of transfer buttons.
+- Fixed trashslot wrong slots being sometimes affected by delete keybinds.
+- Updated Discord RPC to new 4.0x format.
+
+## Added:
+- Curios API
+
+## Removed
+- Crash Assistant
+- Curios API continuation.
+- Sodium
+- Iris Shaders
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Forge).
+
+---
+
 Version: 11.2.1hf (April 24th, 2026)
 
 ### Updated:
